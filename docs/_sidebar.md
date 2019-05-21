@@ -1,4 +1,5 @@
 [Home](_coverpage.md)
+
 - HMH Introduction
 	- [The Reading Inventory](ri.md)
 	- [The Math Inventory](mi.md)
