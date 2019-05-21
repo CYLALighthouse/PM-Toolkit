@@ -23,7 +23,7 @@
 
 ?> **Video Tip** To pause or navigate through the video, right click and select "Show Controls".
 
-[HMH RI Walkthrough](/_media/HMH_RI_Walkthrough.mp4 ':include :type=video width = 100% height=400px autoplay')
+[HMH RI Walkthrough](https://web.microsoftstream.com/video/4452499d-a235-4ba7-a1a0-159b7b36af5e ':include :type=video width = 100% height=400px autoplay')
 
 ## Test Mechanics
 
