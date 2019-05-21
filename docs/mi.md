@@ -18,9 +18,36 @@
 
 ?> **Computer Adaptive Design**		As students progress through the assessment, the difficulty level of questions change according to the students' performance. If the student correctly answers a question, the Lexile measure of the next question increase. If the student incorrectly answers a question, the Lexile measure of the next question decreases. The assessment ends once the student has answered a sufficient number of questions to determine an accurate Lexile measure.
 
-### Math Inventory Video Walkthrough
+## Math Inventory Video Walkthrough
 
 [HMH MI Walkthrough](/_media/HMH_MI_Walkthrough.mp4 ':include :type=video width = 100% height=400px autoplay')
 
+
+## Test Mechanics 
+
+
+### Fall MI Performance Bands
+
+- Applied to the first administration of the MI (Baseline Score) 
+- Used for Final Focus List Selection
+
 ![MI Performance Bands Fall](/_images/MIBandsFall.jpg)
-![MI Performance Bands Spring](/_images/RIBandsSpring.jpg)
+
+
+### Spring MI Performance Bands
+
+- Applied to second and third administration of the MI.
+- Used as Benchmark for student progress towards grade-level proficiency.
+![MI Performance Bands Spring](/_images/MIBandsSpring.jpg)
+
+
+### Average Growth Goals
+
+- The **Average Growth Goal** is an estimate of the amount of quantile growth that an average student (50th percentile) can be expected to grow following a full year of instruction.
+- Calculated based on **student grade level** and their **Fall Performance Band**.
+- Provides attainable, realistic goals to set with students.
+- Serve as the main data point used for:
+	- Student Progress Monitoring
+	- End of Year Student Outcome
+
+![MI Growth Goals](/_images/MIGrowthGoals.jpg)

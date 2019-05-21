@@ -13,4 +13,4 @@
 
 - Resources
 
-- Changelog
+- Changelogs
