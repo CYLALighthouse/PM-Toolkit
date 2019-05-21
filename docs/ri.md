@@ -10,6 +10,14 @@
 	- Identify relevant and appropriate texts to use when building students reading and comprehension skills
 	- Identify skills that support students’ reading comprehension and fluency
 
+!> 	RI is **not timed**. 
+	Each student will answer approximately **20-25 questions**.
+	Most students take **15-30 minutes** to complete one administration.
+	The assessment is computer-adaptive and adjusts question difficulty based on students' responses.
+
+
+?> **Computer Adaptive Design**		As students progress through the assessment, the difficulty level of questions change according to the students' performance. If the student correctly answers a question, the Lexile measure of the next question increase. If the student incorrectly answers a question, the Lexile measure of the next question decreases. The assessment ends once the student has answered a sufficient number of questions to determine an accurate Lexile measure.
+
 
 ## Reading Inventory Video Walkthrough
 
@@ -26,4 +34,4 @@
 - Determine Final Focus List selection (must be _Basic_ or _Below Basic_ to qualify) for the ELA FL
 - Provide a benchmark for monitoring student progress toward grade level proficiency
 
-![RI Performance Bands](/_images/MIBandsFall.jpg)
+![RI Performance Bands](/_images/RIBands.jpg)
