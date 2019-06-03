@@ -1,3 +1,5 @@
+<!-- _sidebar.md -->
+
 [Home](_coverpage.md)
 
 - HMH
