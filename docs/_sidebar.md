@@ -1,13 +1,11 @@
 [Home](_coverpage.md)
 
-- HMH Introduction
+- HMH
 	- [The Reading Inventory](ri.md)
 	- [The Math Inventory](mi.md)
-	- Retest Requests
+	- [SAM](sam.md)
 
-- SAM Navigation Guide
-	- [Logging into SAM](samnav.md)
-	- [Reports](samreports.md)
+- DESSA
 
 - FAQs
 
