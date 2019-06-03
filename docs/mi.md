@@ -20,7 +20,8 @@
 
 ## Math Inventory Video Walkthrough
 
-[HMH MI Walkthrough](https://web.microsoftstream.com/video/3711218c-c3c2-4390-a589-d3ee59f590a3 ':include :type=video width = 100% height=400px autoplay')
+[HMH MI Walkthrough](/_media/HMH_MI_Walkthrough.mp4)
+
 
 
 ## Test Mechanics 
