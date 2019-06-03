@@ -20,8 +20,7 @@
 
 ## Math Inventory Video Walkthrough
 
-![HMH MI Walkthrough](/_media/HMH_MI_Walkthrough.mp4)
-
+<video src="/_media/HMH_MI_Walkthrough.mp4" width="320" height="200" controls preload></video>
 
 
 ## Test Mechanics 
