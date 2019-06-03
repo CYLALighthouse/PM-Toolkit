@@ -5,6 +5,7 @@
 ## Features
 - Smart full-text search plugin
 - Video walkthroughs of resources
+- Sidebar navigation
 
 
 If you have any additional questions, please check out the FAQ or [Submit a Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx)

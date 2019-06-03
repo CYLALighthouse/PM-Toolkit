@@ -21,43 +21,25 @@
       loadSidebar: true,
       subMaxLevel: 2,
 
-      search: 'auto', // default
-
-      search : [
-        '/',            // => /README.md
-        '/guide',       // => /guide.md
-        '/get-started', // => /get-started.md
-        '/zh-cn/',      // => /zh-cn/README.md
-      ],
+      disqus: 'shortname',
 
       search: {
-      maxAge: 86400000, // Expiration time, the default one day
-      paths: [], // or 'auto'
-      placeholder: 'Type to search',
-
-      // Localization
-      placeholder: {
-        '/': 'Type to search'
-      },
-
-      noData: 'No Results!',
-
-
-      // Headline depth, 1 - 6
-      depth: 2,
-
-      hideOtherSidebarContent: false, // whether or not to hide other sidebar content
-
-      // To avoid search index collision
-      // between multiple websites under the same domain
-      namespace: 'website-1',
-    }
+        noData: {
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': 'Type to Search'
+        }
+      }
 
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/disqus.min.js"></script>
 
 </body>
 </html>
