@@ -20,7 +20,7 @@
 
 ## Math Inventory Video Walkthrough
 
-[HMH MI Walkthrough](/_media/HMH_MI_Walkthrough.mp4)
+![HMH MI Walkthrough](/_media/HMH_MI_Walkthrough.mp4)
 
 
 
