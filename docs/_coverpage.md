@@ -9,5 +9,5 @@
 - Toolkit version #3
 - Date Created: 5/9/2019
 
-[Get Started](ri.md)
+[Get Started](README.md)
 [SAM Login](https://h100002412.education.scholastic.com/ScholasticCentral)
