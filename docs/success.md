@@ -98,7 +98,7 @@
 
 #### ** PMs **
 
-- [] PM, Admin, Teacher should consider monitoring the testing environment  
+- [ ] PM, Admin, Teacher should consider monitoring the testing environment  
 
 <!-- tabs:end -->
 
@@ -131,7 +131,6 @@
 ### Student Motivation / Goal Setting
 
 
-s
 
 #### ** PMs **
 

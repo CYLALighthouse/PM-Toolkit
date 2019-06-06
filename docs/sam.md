@@ -6,7 +6,6 @@ The [**Student Achievement Manager (SAM)**](https://h100002412.education.scholas
 
 ![SAM Homepage](/_images/SAMHomepage.png)
 
-## Site Organization
 
 The SAM system was designed for teachers to access Assessment scores and reports for the students in their classrooms. In order to optimize SAM for our own use, City Year has used the same structure.
 
@@ -16,14 +15,8 @@ The SAM system was designed for teachers to access Assessment scores and reports
 | Classes    | -> | Math & ELA FL |
 | Students   | -> | FL Students   |
 
-# Logging into SAM
 
-## What's my Username and Password?
-
-To find your credentials, you can navigate to your [PowerBI](https://app.powerbi.com/home) dashboard.
-
-From there, you will want navigate to the Impact Dashboard --> Assessment Resources --> Login Info.
-
+>? Click [here](faq.md) to find your login info.
 
 # Reports
 
@@ -35,7 +28,7 @@ There are 2 types of reports you can pull.
 - Student Reports
 - Classroom Reports
 
-
+?> All Reports in SAM are viewable in a web browser and in a downloadable PDF. However, information provided is not always consistent between the two formats.
 
 ## Student Reports
 
