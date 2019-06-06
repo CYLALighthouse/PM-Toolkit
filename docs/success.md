@@ -131,18 +131,7 @@
 ### Student Motivation / Goal Setting
 
 
-<!-- tabs:start -->
-
-#### ** ACMs **
-
-- [ ] Share results with students Celebrate successes and track progress towards goals. 
-- [ ] Use assessment results to guide goal setting session plan for students and data results for SSM 
-- [ ] Involve families by printing and sending home the School-to-Home Report to update families and caregivers on their child’s progress.
-
-#### ** TLs **
-
-- [ ] Help ACMs navigate SAM and reports 
-- [ ] Model for ACMs how to effectively use SAM tools to make informed decisions about student planning and goal setting.  
+s
 
 #### ** PMs **
 

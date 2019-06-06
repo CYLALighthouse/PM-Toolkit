@@ -1,5 +1,12 @@
 # Frequently Asked Questions
 
+## Where do I find my log-in information for SAM?
+
+Go to [PowerBI](apps.powerbi.com) 
+
+## Where do I find my student's log-in information?
+
+
 ## What is the Retest Request Policy?
 
 You may retest your students for one of the following reasons:

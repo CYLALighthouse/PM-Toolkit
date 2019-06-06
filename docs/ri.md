@@ -21,9 +21,8 @@
 
 ## Reading Inventory Video Walkthrough
 
-?> **Video Tip** To pause or navigate through the video, right click and select "Show Controls".
 
-[HMH RI Walkthrough](https://web.microsoftstream.com/video/4452499d-a235-4ba7-a1a0-159b7b36af5e ':include :type=video width = 100% height=400px autoplay')
+<div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/4452499d-a235-4ba7-a1a0-159b7b36af5e?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
 ## Test Mechanics
 
