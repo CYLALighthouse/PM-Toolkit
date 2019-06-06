@@ -4,6 +4,8 @@ The [**Student Achievement Manager (SAM)**](https://h100002412.education.scholas
 - Access your FL Students' Lexile and Quantile Scores
 - Access customized and actionable reports for your students to inform planning interventions and progress monitoring
 
+![SAM Homepage](/_images/SAMHomepage.png)
+
 ## Site Organization
 
 The SAM system was designed for teachers to access Assessment scores and reports for the students in their classrooms. In order to optimize SAM for our own use, City Year has used the same structure.
@@ -20,20 +22,26 @@ The SAM system was designed for teachers to access Assessment scores and reports
 
 To find your credentials, you can navigate to your [PowerBI](https://app.powerbi.com/home) dashboard.
 
-## How do I log on?
-
-![SAMLogin](/_images/SAMLogin.gif ':size=75%')
+From there, you will want navigate to the Impact Dashboard --> Assessment Resources --> Login Info.
 
 
 # Reports
+
+To pull reports for your students, you will want to navigate to the reports tab.
+
+![SAM Reports Tab](/_images/SAMReportsTab.png)
 
 There are 2 types of reports you can pull. 
 - Student Reports
 - Classroom Reports
 
+
+
 ## Student Reports
 
-Student reports are used to look at a single student at a time. You may want to pull a student report 
+Student reports are used to look at a single student at a time.
+
+![SAM Student Reports](/_images/SAMStudent.png)
 
 <!-- tabs:start -->
 
@@ -48,9 +56,9 @@ Student reports are used to look at a single student at a time. You may want to 
 
 #### ** Math Inventory **
 
-- Student Test Printout Report
+- [Student Test Printout Report](#mi-student-test-printout)
 	- Provides questions and answers from the latest administration of the MI 
-- Progress to College and Career Readiness Report 
+- [Progress to College and Career Readiness Report](#mi-progress-to-college-and-career-readiness-report)
 	- Shows student progress toward grade level proficiency and college and career readiness. Provides specific instructional recommendations using QSCs and State Standards 
 
 <!-- tabs:end -->
@@ -58,6 +66,11 @@ Student reports are used to look at a single student at a time. You may want to 
 ## Classroom Reports
 
 Classroom reports are used to look at a group (ELA or Math FL) of students at a time.
+
+![SAM Classroom Reports](/_images/SAMClassroom.png)
+
+
+<!-- tabs:start -->
 
 #### ** Reading Inventory **
 
@@ -78,8 +91,12 @@ Classroom reports are used to look at a group (ELA or Math FL) of students at a 
 <!-- tabs:end -->
 
 
-## RI Recommended Reading Reports
+### RI Recommended Reading Reports {docsify-ignore}
 
-## RI Student Action Reports
+### RI Student Action Reports {docsify-ignore}
 
-## RI Student Test Printout
+### RI Student Test Printout {docsify-ignore}
+
+### MI Student Test Printout {docsify-ignore}
+
+### MI Progress to College and Career Readiness Report {docsify-ignore}
