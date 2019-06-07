@@ -67,29 +67,63 @@ Classroom reports are used to look at a group (ELA or Math FL) of students at a 
 
 #### ** Reading Inventory **
 
-- Growth Goals Report
+- [Growth Goals Report](#ri-growth-goals-report)
 	- Shows the expected growth range for your students and how they are benchmarking toward reading proficiency 
-- Instructional Planning Report
+- [Instructional Planning Report](#ri-instructional-planning-report)
 	- Groups your FL students according to need based on their most recent lexile score and performance level 
-- Test Complexity Report
+- [Test Complexity Report](#ri-test-complexity-report)
 	- Provides lexile ranges with which to select a text for guided reading based on how much you want to challenge students 
 
 #### ** Math Inventory **
 
-- Growth Report
+- [Growth Report](#mi-growth-report)
 	- Shows changes in student quantile and performance level over time 
-- Insturctional Planning Report
+- [Instructional Planning Report](#mi-instructional-planning-report)
 	- Provides recommendations for grouping students and identifies common skills and concepts students are ready to learn based on performance level 
 
 <!-- tabs:end -->
 
+## Report Summaries
+
+This section will provide:
+- A list of key reports available in SAM for Math and Reading Inventory
+- Guidance on how/when to use these reports
+- Definitions of key aspects of each report
+
 
 ### RI Recommended Reading Reports {docsify-ignore}
 
+```pdf
+
+		/_files/ri_recommended_reading.pdf
+```
+
 ### RI Student Action Reports {docsify-ignore}
 
+```pdf
+
+		/_files/ri_student_action_report.pdf
+```
+
 ### RI Student Test Printout {docsify-ignore}
+
+```pdf
+
+		/_files/ri_student_test_printout.pdf
+```
+
+### RI Growth Goals Report {docsify-ignore}
+
+This report provides each student on your ELA FL expected growth range and how they are benchmarking towards proficiency.
+
+> **Best Practices** Use expected growth goals to set achievable goals for your ELA students. Share with partner teacher to inform pl
+
+### RI Test Complexity Report {docsify-ignore}
 
 ### MI Student Test Printout {docsify-ignore}
 
 ### MI Progress to College and Career Readiness Report {docsify-ignore}
+
+### MI Growth Report {docsify-ignore}
+
+### MI Instructional Planning Report {docsify-ignore}
