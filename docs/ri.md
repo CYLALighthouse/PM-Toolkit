@@ -10,13 +10,7 @@
 	- Identify relevant and appropriate texts to use when building students reading and comprehension skills
 	- Identify skills that support students’ reading comprehension and fluency
 
-!> 	RI is **not timed**. 
-	Each student will answer approximately **20-25 questions**.
-	Most students take **15-30 minutes** to complete one administration.
-	The assessment is computer-adaptive and adjusts question difficulty based on students' responses.
 
-
-?> **Computer Adaptive Design**		As students progress through the assessment, the difficulty level of questions change according to the students' performance. If the student correctly answers a question, the Lexile measure of the next question increase. If the student incorrectly answers a question, the Lexile measure of the next question decreases. The assessment ends once the student has answered a sufficient number of questions to determine an accurate Lexile measure.
 
 
 ## Reading Inventory Video Walkthrough
@@ -24,9 +18,20 @@
 
 <div style='max-width: 640px'><div style='position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;'><iframe width="640" height="360" src="https://web.microsoftstream.com/embed/video/4452499d-a235-4ba7-a1a0-159b7b36af5e?autoplay=false&amp;showinfo=true" allowfullscreen style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
 
+!> 	RI is **not timed**. 
+	Each student will answer approximately **20-25 questions**.
+	Most students take **15-30 minutes** to complete one administration.
+	The assessment is computer-adaptive and adjusts question difficulty based on students' responses.
+
+
+
+
+
 ## Test Mechanics
 
-?> Reading Inventory Expected Growth Goals and Performance Bands
+The RI provides two benchmarks for FL identification and student progress monitoring.
+	- Peformance Bands: <font color = "red">FL Identification</font>
+	- Expected Growth Goals: <font color = "red">Student Progress Monitoring & Outcome Measurement</font>
 
 **Performance Bands** 
 - Align a student's lexile score with proficiency for their grade level
@@ -34,3 +39,21 @@
 - Provide a benchmark for monitoring student progress toward grade level proficiency
 
 ![RI Performance Bands](/_images/RIBands.jpg)
+
+How to use this chart:
+1. Find your student's grade.
+2. Find the score range from their first administration. 
+3. Identify the corresponding band.
+4. If the student is **Far Below Basic, Below Basic**, or **Basic**, the students are <font color=green>eligible</font> for the ELA FL.
+5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the ELA FL.
+
+### The Lexile Framework
+
+The RI is based on the Lexile Framework for Reading, a scientifically accurate system for:
+	- Matching readers to appropriately challenging and egaging texts
+	- Measuring the comprehension levels of readers
+	- Providing actionable data for identifying appropriate readings and guided reading strategies that build confidence in readers
+	- Providing a common frame of reference for tutors to view student performance.
+
+?> **Computer Adaptive Design**		As students progress through the assessment, the difficulty level of questions change according to the students' performance. If the student correctly answers a question, the Lexile measure of the next question increase. If the student incorrectly answers a question, the Lexile measure of the next question decreases. The assessment ends once the student has answered a sufficient number of questions to determine an accurate Lexile measure.
+
