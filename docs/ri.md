@@ -30,8 +30,8 @@
 ## Test Mechanics
 
 The RI provides two benchmarks for FL identification and student progress monitoring.
-	- Peformance Bands: <font color = "red">FL Identification</font>
-	- Expected Growth Goals: <font color = "red">Student Progress Monitoring & Outcome Measurement</font>
+- Peformance Bands: <font color = "red">FL Identification</font>
+- Expected Growth Goals: <font color = "red">Student Progress Monitoring & Outcome Measurement</font>
 
 **Performance Bands** 
 - Align a student's lexile score with proficiency for their grade level
@@ -50,10 +50,10 @@ How to use this chart:
 ### The Lexile Framework
 
 The RI is based on the Lexile Framework for Reading, a scientifically accurate system for:
-	- Matching readers to appropriately challenging and egaging texts
-	- Measuring the comprehension levels of readers
-	- Providing actionable data for identifying appropriate readings and guided reading strategies that build confidence in readers
-	- Providing a common frame of reference for tutors to view student performance.
+- Matching readers to appropriately challenging and egaging texts
+- Measuring the comprehension levels of readers
+- Providing actionable data for identifying appropriate readings and guided reading strategies that build confidence in readers
+- Providing a common frame of reference for tutors to view student performance.
 
 ?> **Computer Adaptive Design**		As students progress through the assessment, the difficulty level of questions change according to the students' performance. If the student correctly answers a question, the Lexile measure of the next question increase. If the student incorrectly answers a question, the Lexile measure of the next question decreases. The assessment ends once the student has answered a sufficient number of questions to determine an accurate Lexile measure.
 
