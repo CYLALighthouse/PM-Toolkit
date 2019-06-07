@@ -1,7 +1,4 @@
 <!-- _sidebar.md -->
-
-[Home](_coverpage.md)
-
 - HMH
 	- [The Reading Inventory](ri.md)
 	- [The Math Inventory](mi.md)
