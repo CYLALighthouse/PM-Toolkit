@@ -54,7 +54,7 @@ Expected growth goals for the Reading Inventory are expressed in a range of scor
 - Growth Goal High
 Impact Analytics uses the Growth Goal Low as the benchmark for whether or not a student met their growth goals for ACM performance metrics. However, when goal setting with students, we encourage using the Growth Goal High to encourage students to challenge themselves.
 
->! **The difference between MI and RI Growth Goals** For the MI, growth goals are based on the Average Growth Goals chart, and are the **same** for all students in a grade at a performance band. For the RI, growth goals are different for each student, even if they are in the same grade and performance band. RI growth goals can be exported from a the [RI Growth Goals Report](sam.md).
+!> **The Difference Between MI and RI Growth Goals** For the MI, growth goals are based on the [Average Growth Goals](#average-growth-goals) chart, and are the **same** for all students in a grade at each performance band. For the RI, growth goals are **different** for each student, even if they are in the same grade and performance band. RI growth goals can be exported from a the [RI Growth Goals Report](sam.md).
 
 ### The Lexile Framework
 

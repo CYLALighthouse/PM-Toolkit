@@ -70,11 +70,11 @@ The MI provides two benchmarks for FL Identification and student progress monito
 
 ![MI Growth Goals](/_images/MIGrowthGoals.jpg)
 
->! **The difference between MI and RI Growth Goals** For the MI, growth goals are based on the Average Growth Goals chart, and are the **same** for all students in a grade at a performance band. For the RI, growth goals are different for each student, even if they are in the same grade and performance band. RI growth goals can be exported from a the [RI Growth Goals Report](sam.md).
+!> **The Difference Between MI and RI Growth Goals** For the MI, growth goals are based on the [Average Growth Goals](#average-growth-goals) chart, and are the **same** for all students in a grade at each performance band. For the RI, growth goals are **different** for each student, even if they are in the same grade and performance band. RI growth goals can be exported from a the [RI Growth Goals Report](sam.md).
 
 ### The Quantile Framework
 
-The MI is based on the Quantile framework for mathematics that"
+The MI is based on the Quantile framework for mathematics that:
 - Identifies a student's mathematical readiness to learn new skills and concepts
 - Links student's readiness with specific skills and concepts that lead to Algebra Readiness & College Career Readiness
 - Aligns to Common Core and Individual State standards.
