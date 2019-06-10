@@ -11,7 +11,7 @@ Revisit these groups often to determine if your group dynamics and your students
 >[!NOTE] See [RI Instructional Planning Report](sam/#ri-instructional-planning-report) or [MI Instructional Planning Report](sam/#mi-instructional-planning-report) summary for more detail.
 
 #### Step 2. Identify a _Reading Related Skill_ to Target with your Partner Teacher
-- The [Student Action Report](sam/#ri-student-action-reports) will recommend skills to help your students grow as a reader. Other things to consider when identifying a skill to target are:
+- The [Student Action Report](https://karenmjiang.github.io/CYLA_Assessments_Toolkit/#/sam?id=ri-student-action-reports) will recommend skills to help your students grow as a reader. Other things to consider when identifying a skill to target are:
 	- What information have you learned from hearing this student read, and talk about what they have read? (Comprehension, Fluency, Grit when reading)
 	- How might the skill you focus on in your sessions, build students’ reading comprehension and fluency?
 	- Which skill will give students the strategies to be independent readers and learners?
