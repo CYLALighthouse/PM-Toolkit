@@ -11,7 +11,6 @@
 </head>
 <body>
 
-
   <div id="app"></div>
   <script>
     window.$docsify = {
@@ -21,8 +20,10 @@
       onlyCover: false,
       loadSidebar: true,
       subMaxLevel: 2,
+      auto2top:true,
       logo: '/_images/logo-cy-color.png',
-       
+      name: 'CYLA Assessments Toolkit',
+      search: 'auto', 
       tabs: {
         persist    : true,      // default
         sync       : true,      // default
@@ -31,8 +32,12 @@
         tabHeadings: true       // default
       }
 
-    }
+    };
   </script>
+
+
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 
   <!-- PDFObject.js is a required dependency of this plugin -->
   <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
