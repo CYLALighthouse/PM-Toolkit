@@ -35,17 +35,26 @@ The RI provides two benchmarks for FL identification and student progress monito
 
 **Performance Bands** 
 - Align a student's lexile score with proficiency for their grade level
-- Determine Final Focus List selection (must be _Basic_ or _Below Basic_ to qualify) for the ELA FL
+- Determine Final Focus List selection (must be _Basic_ or _below_ to qualify) for the ELA FL
 - Provide a benchmark for monitoring student progress toward grade level proficiency
 
 ![RI Performance Bands](/_images/RIBands.jpg)
 
-How to use this chart:
+**How to use this chart:**
 1. Find your student's grade.
 2. Find the score range from their first administration. 
 3. Identify the corresponding band.
 4. If the student is **Far Below Basic, Below Basic**, or **Basic**, the students are <font color=green>eligible</font> for the ELA FL.
 5. If the student is **Proficient** or **Advanced**, the students are <font color=red> NOT eligible</font> for the ELA FL.
+
+### Expected Growth Goals
+
+Expected growth goals for the Reading Inventory are expressed in a range of scores. 
+- Growth Goal Low
+- Growth Goal High
+Impact Analytics uses the Growth Goal Low as the benchmark for whether or not a student met their growth goals for ACM performance metrics. However, when goal setting with students, we encourage using the Growth Goal High to encourage students to challenge themselves.
+
+>! **The difference between MI and RI Growth Goals** For the MI, growth goals are based on the Average Growth Goals chart, and are the **same** for all students in a grade at a performance band. For the RI, growth goals are different for each student, even if they are in the same grade and performance band. RI growth goals can be exported from a the [RI Growth Goals Report](sam.md).
 
 ### The Lexile Framework
 
