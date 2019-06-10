@@ -132,8 +132,3 @@
 
 
 
-#### ** PMs **
-
-- [ ] Discuss results with partner teachers and administrators. Print out the Growth Report and Instructional Planning report to  show administrators the range of Quantile measures of FL students  
-
-<!-- tabs:end -->
