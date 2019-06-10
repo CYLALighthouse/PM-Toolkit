@@ -110,14 +110,6 @@ When to pull report:
 		/_files/ri_recommended_reading.pdf
 ```
 
-```pdf
-		_files/ri_recommended_reading.pdf
-```
-
-```pdf
-		/_files/ri_recommended_reading
-```
-
 **Key Elements**
 1. Interest areas a student selects at the beginning of the RI
 2. Texts related to the interest areas of the students
@@ -152,17 +144,18 @@ This report provides a student's test history, targeted lexile ranges used based
 
 This report provides a printout of the latest assessment the student takes which shows both correct and incorrect responses.
 
-> **Best Practices** Use this report to review the results of assessment with students. Identifying trends in the types of questions students get correct or incorrect. Use a few questions as a warm-up for session plans, or create a session plan around test preparation. 
+> [!NOTE] **Best Practices** Use this report to review the results of assessment with students. Identifying trends in the types of questions students get correct or incorrect. Use a few questions as a warm-up for session plans, or create a session plan around test preparation. 
 
 ```pdf
 /_files/ri_student_test_printout.pdf
 ```
 
-**Key Elements**
-1. Student test date, lexile score, and test time for latest assessment.
-2. Full test questions that the student took on the RI.
-3. Correct answers are marked with a check, incorrect answers are marked with an "x".
-4. The citation of the passage used in the question. 
+> [!TIP]
+> **Key Elements**
+> 1. Student test date, lexile score, and test time for latest assessment.
+> 2. Full test questions that the student took on the RI.
+> 3. Correct answers are marked with a check, incorrect answers are marked with an "x".
+> 4. The citation of the passage used in the question. 
 
 >! Student Test Printouts from previous assessments will be lost after a new assessment is taken. To keep a history of test printouts, print and store them in a secure place.
 
@@ -175,15 +168,22 @@ This report provides a printout of the latest assessment the student takes which
 
 This report provides each student on your ELA FL expected growth range and how they are benchmarking towards proficiency.
 
+> **Best Practices** Use expected growth goals creaed to set achievable goals for your ELA students. Share with apartner teachers to inform planning for students and quantifying need for intervention. Use growth needed for grade level proficiency for secondary goals if students meet expected growth.
+
+**Key Elements**
+1. Date & lexile score for students’ 1st assessment
+2. Date and lexile score for student’s latest assessment score (Field will update after both the 2nd and 3rd administration
+3. Expected lexile growth for an average student by the end of the school year. Based on grade level and First test score
+4. Actual lexile growth from 1st assessment to last assessment
+5. Growth needed to reach Proficient Performance level for their grade level (Year End Proficiency Ranges table gives you the proficiency range for your student’s grade levels
+6. Key provides growth goals status toward expected growth and indicator if a student took less than 15 minutes to complete the assessment 
+
+
+
 
 ### RI Test Complexity Report {docsify-ignore}
 
 This report provides lexile ranges to select a text for guided reading based on how much you want to challenge students.
-
-When to pull report:
-- [x] First Administration
-- [x] Second Administration
-- [x] Third Administration
 
 
 **Key Elements**
@@ -191,6 +191,10 @@ When to pull report:
 2. *Simple Test Complexity:* Texts in this range ideal for struggling or reluctant readers to build confidence or help them master a subject or skill
 3. *Moderate Text Complexity:* Texts in this range are good for independent reading
 4. *Demanding Text Complexity:* Texts in this range ideal for Guided Reading in order to build student's reading capacity.
+
+
+
+
 
 ### MI Student Test Printout {docsify-ignore}
 
