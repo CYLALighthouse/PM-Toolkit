@@ -9,11 +9,11 @@ The [**Student Achievement Manager (SAM)**](https://h100002412.education.scholas
 
 The SAM system was designed for teachers to access Assessment scores and reports for the students in their classrooms. In order to optimize SAM for our own use, City Year has used the same structure.
 
-| SAM System |    | City Year     |
-|------------|----|---------------|
-| Teacher    | -> | ACM           |
-| Classes    | -> | Math & ELA FL |
-| Students   | -> | FL Students   |
+| SAM System |               | City Year     |
+|------------|---------------|---------------|
+| Teacher    | :arrow_right: | ACM           |
+| Classes    | :arrow_right: | Math & ELA FL |
+| Students   | :arrow_right: | FL Students   |
 
 
 > Click [here](faq.md) to find your login info.
@@ -107,8 +107,15 @@ When to pull report:
 > **Best practices** Sharing with your student to identify texts they will enjoy for guided or independent reading.
 
 ```pdf
-
 		/_files/ri_recommended_reading.pdf
+```
+
+```pdf
+		_files/ri_recommended_reading.pdf
+```
+
+```pdf
+		/_files/ri_recommended_reading
 ```
 
 **Key Elements**
@@ -128,8 +135,7 @@ This report provides a student's test history, targeted lexile ranges used based
 > **Best Practices** Use this report to identify the lexile ranges of texts that can be used to challenge students through guided reading. Use recommended readding strategies to identify resources from the ELA toolkit for planned interventions. 
 
 ```pdf
-
-		/_files/ri_student_action_report.pdf
+/_files/ri_student_action_report.pdf
 ```
 
 **Key Elements**
@@ -149,8 +155,7 @@ This report provides a printout of the latest assessment the student takes which
 > **Best Practices** Use this report to review the results of assessment with students. Identifying trends in the types of questions students get correct or incorrect. Use a few questions as a warm-up for session plans, or create a session plan around test preparation. 
 
 ```pdf
-
-		/_files/ri_student_test_printout.pdf
+/_files/ri_student_test_printout.pdf
 ```
 
 **Key Elements**

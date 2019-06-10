@@ -1,6 +1,7 @@
-# CYLA's Assessments Toolkit
+# CYLA Assessments Toolkit
 
-> Your one-stop shop to understanding CY tools and resources
+Welcome to CYLA Assessment Toolkit! We hope this guide will be your reference for questions / learning related to the tools and systems you will be using during your service.
+
 
 ## Features
 - Smart full-text search plugin
@@ -8,4 +9,5 @@
 - Sidebar navigation
 
 
-If you have any additional questions, please check out the [FAQ](faq.md) or [Submit a Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx)
+If you have any additional questions, please check out the [FAQ](faq.md) or [Submit a Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx).
+
