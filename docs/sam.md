@@ -126,6 +126,15 @@ This report provides a student's test history, targeted lexile ranges used based
 ```pdf
 		_files/ri_student_action_report.pdf
 ```
+
+```pdf
+		files/ri_student_action_report.pdf
+```
+
+```pdf
+		/files/ri_student_action_report.pdf
+```
+
 > [!NOTE] **Key Elements**
 > 1. Student's RI test history, including test dates, lexile scores, and performance levels.
 > 2. Lexile ranges based on different levels of complexity for a student as well as tips for when to use texts at the specific lexile range.
@@ -146,7 +155,12 @@ This report provides a printout of the latest assessment the student takes which
 > - Use a few questions as a warm-up for session plans, or create a session plan around test preparation. 
 
 ```pdf
-		_files/ri_student_test_printout.pdf
+		files/ri_student_test_printout.pdf
+```
+
+
+```pdf
+		/files/ri_student_test_printout.pdf
 ```
 
 > [!NOTE] **Key Elements**
