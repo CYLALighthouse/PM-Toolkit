@@ -111,6 +111,9 @@ Recommended reading materials will update based on the latest lexile score and n
 
 > [!TIP] **Best practices** Sharing with your student to identify texts they will enjoy for guided or independent reading.
 
+
+#### Sample RI Recommended Reading Report
+
 ```pdf
 		files/ri_recommended_reading.pdf
 ```
@@ -133,6 +136,8 @@ This report provides a student's test history, targeted lexile ranges used based
 > - Use this report to identify the lexile ranges of texts that can be used to challenge students through guided reading. 
 > - Use recommended readding strategies to identify resources from the ELA toolkit for planned interventions. 
 
+
+#### Sample RI Student Action Report
 
 ```pdf
 		files/ri_student_action_report.pdf
@@ -157,8 +162,12 @@ This report provides a printout of the latest assessment the student takes which
 > - Identifying trends in the types of questions students get correct or incorrect. 
 > - Use a few questions as a warm-up for session plans, or create a session plan around test preparation. 
 
+
+#### Sample RI Student Test Printout
+
+
 ```pdf
-		\files\ri_student_test_printout.pdf
+		files/ri_student_test_printout.pdf
 ```
 
 
