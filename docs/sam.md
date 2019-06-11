@@ -32,7 +32,11 @@ There are 2 types of reports you can pull.
 
 # Student Reports
 
-Student reports are used to look at a single student at a time.
+Student reports are used to look at a **single student** at a time. 
+
+To run a report, select the report you are interested in, and click the **RUN REPORT** button on the bottom right.
+
+> [!NOTE] When running Student Reports, make sure you have a student selected on the left-hand panel.
 
 ![SAM Student Reports](/_images/SAMStudent.png)
 
@@ -56,9 +60,15 @@ Student reports are used to look at a single student at a time.
 
 <!-- tabs:end -->
 
+
+
 # Classroom Reports
 
-Classroom reports are used to look at a group (ELA or Math FL) of students at a time.
+Classroom reports are used to look at a **group** (ELA or Math FL) of students at a time.
+
+To run a report, select the report you are interested in, and click the **RUN REPORT** button on the bottom right.
+
+> [!NOTE] When running Classroom Reports, make sure you have a class selected (ELA Whole Class / Math Whole Class) on the left-hand panel.
 
 ![SAM Classroom Reports](/_images/SAMClassroom.png)
 
@@ -102,7 +112,7 @@ Recommended reading materials will update based on the latest lexile score and n
 > [!TIP] **Best practices** Sharing with your student to identify texts they will enjoy for guided or independent reading.
 
 ```pdf
-		files\ri_recommended_reading.pdf
+		files/ri_recommended_reading.pdf
 ```
 
 > [!NOTE] **Key Elements**
