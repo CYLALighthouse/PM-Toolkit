@@ -1,4 +1,4 @@
-## The Math Inventory (MI)
+## The Math Inventory (MI) {docsify-ignore}
 
 - *What is it:*
 	- The *Math Inventory* is a research-based, computer adaptive assessment that measures abilities and longitudinal process from Kindergarten through Algebra II.

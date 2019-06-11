@@ -1,4 +1,4 @@
-# The Reading Inventory (RI)
+# The Reading Inventory (RI) {docsify-ignore}
 
 - **What is it:**
 	- The **_Reading Inventory_** is a research-based, computer adaptive assessment that is designed to measure how well students read literary and expository text at varying difficulties.
