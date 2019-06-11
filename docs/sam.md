@@ -102,7 +102,7 @@ Recommended reading materials will update based on the latest lexile score and n
 > [!TIP] **Best practices** Sharing with your student to identify texts they will enjoy for guided or independent reading.
 
 ```pdf
-		_files/ri_recommended_reading.pdf
+		files\ri_recommended_reading.pdf
 ```
 
 > [!NOTE] **Key Elements**
@@ -123,16 +123,9 @@ This report provides a student's test history, targeted lexile ranges used based
 > - Use this report to identify the lexile ranges of texts that can be used to challenge students through guided reading. 
 > - Use recommended readding strategies to identify resources from the ELA toolkit for planned interventions. 
 
-```pdf
-		_files/ri_student_action_report.pdf
-```
 
 ```pdf
 		files/ri_student_action_report.pdf
-```
-
-```pdf
-		/files/ri_student_action_report.pdf
 ```
 
 > [!NOTE] **Key Elements**
@@ -155,13 +148,9 @@ This report provides a printout of the latest assessment the student takes which
 > - Use a few questions as a warm-up for session plans, or create a session plan around test preparation. 
 
 ```pdf
-		files/ri_student_test_printout.pdf
+		\files\ri_student_test_printout.pdf
 ```
 
-
-```pdf
-		/files/ri_student_test_printout.pdf
-```
 
 > [!NOTE] **Key Elements**
 > 1. Student test date, lexile score, and test time for latest assessment.
