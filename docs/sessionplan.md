@@ -1,5 +1,7 @@
 ## Using Data from the Reading Inventory
 
+[Session Plan Blank Template](https://cityyear.sharepoint.com/:w:/r/teams/lax/LandD/_layouts/15/Doc.aspx?sourcedoc=%7BF465BA47-941F-49B8-AD92-B54EA7E87984%7D&file=FY19%20Session%20Plan%20Template%20Blank.docx&action=default&mobileredirect=true)
+
 #### Step 1. Group your Students
 - The Instructional Planning Report groups your students based on lexile score and performance band. Other things to consider when grouping students are:
 	- Will these students work well together?
