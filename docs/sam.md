@@ -81,7 +81,7 @@ To run a report, select the report you are interested in, and click the **RUN RE
 	- Shows the expected growth range for your students and how they are benchmarking toward reading proficiency 
 - [Instructional Planning Report](#ri-instructional-planning-report)
 	- Groups your FL students according to need based on their most recent lexile score and performance level 
-- [Test Complexity Report](#ri-test-complexity-report)
+- [Test Complexity Report](#ri-text-complexity-report)
 	- Provides lexile ranges with which to select a text for guided reading based on how much you want to challenge students 
 
 #### ** Math Inventory **
@@ -93,14 +93,14 @@ To run a report, select the report you are interested in, and click the **RUN RE
 
 <!-- tabs:end -->
 
-# Report Summaries
+# RI Report Summaries
 
 This section will provide:
-- A list of key reports available in SAM for Math and Reading Inventory
+- A list of key reports available in SAM for the Reading Inventory
 - Guidance on how/when to use these reports
 - Definitions of key aspects of each report
 
-
+## Student Reports
 
 ### RI Recommended Reading Reports {docsify-ignore}
 
@@ -112,7 +112,7 @@ Recommended reading materials will update based on the latest lexile score and n
 > [!TIP] **Best practices** Sharing with your student to identify texts they will enjoy for guided or independent reading.
 
 
-#### Sample RI Recommended Reading Report
+#### Sample
 
 ```pdf
 		files/ri_recommended_reading.pdf
@@ -128,6 +128,7 @@ Recommended reading materials will update based on the latest lexile score and n
  
 
 
+
 ### RI Student Action Reports {docsify-ignore}
 
 This report provides a student's test history, targeted lexile ranges used based on your instructional purposes.
@@ -137,7 +138,7 @@ This report provides a student's test history, targeted lexile ranges used based
 > - Use recommended readding strategies to identify resources from the ELA toolkit for planned interventions. 
 
 
-#### Sample RI Student Action Report
+#### Sample
 
 ```pdf
 		files/ri_student_action_report.pdf
@@ -147,6 +148,7 @@ This report provides a student's test history, targeted lexile ranges used based
 > 1. Student's RI test history, including test dates, lexile scores, and performance levels.
 > 2. Lexile ranges based on different levels of complexity for a student as well as tips for when to use texts at the specific lexile range.
 > 3. Provides specific guided reading strategies for each sstudent based on lexile and student grade level. 
+
 
 
 
@@ -163,7 +165,7 @@ This report provides a printout of the latest assessment the student takes which
 > - Use a few questions as a warm-up for session plans, or create a session plan around test preparation. 
 
 
-#### Sample RI Student Test Printout
+#### Sample
 
 
 ```pdf
@@ -181,6 +183,8 @@ This report provides a printout of the latest assessment the student takes which
 
 
 
+
+## Classroom Reports
 
 
 
@@ -202,12 +206,35 @@ This report provides each student on your ELA FL expected growth range and how t
 6. Key provides growth goals status toward expected growth and indicator if a student took less than 15 minutes to complete the assessment 
 
 
+### RI Instructional Planning Report
+
+This report groups your ELA FL Students according to need, based on their most recent lexile score and performance level.
 
 
-### RI Test Complexity Report {docsify-ignore}
+> [!TIP] **Best Practices** 
+> - Create small groups for ELA FL studens with similar lexile scores in order to plan intentional interventions in which multiple students can participate and maximize your T2ST time by providing interventions for multiple students at once.
+
+#### Sample
+
+```pdf
+		files/ri-instructional-planning.pdf
+```
+
+> [!NOTE] **Key Elements**
+> 1. Students are grouped from high to low according to performance level.
+> 2. Student's latest lexile scores and assessment date
+> 3. Percentile Rank tells what percent of students in the same grade received lower scores than your student.
+
+### RI Text Complexity Report {docsify-ignore}
 
 This report provides lexile ranges to select a text for guided reading based on how much you want to challenge students.
 
+
+#### Sample
+
+```pdf
+		files/ri-text-complexity.pdf
+```
 
 > [!NOTE] **Key Elements**
 > 1. Students' latest lexile score and test date
@@ -219,10 +246,66 @@ This report provides lexile ranges to select a text for guided reading based on 
 
 
 
+
+# MI Report Summaries
+
+
+This section will provide:
+- A list of key reports available in SAM for the Math Inventory
+- Guidance on how/when to use these reports
+- Definitions of key aspects of each report
+
+## Student Reports
+
 ### MI Student Test Printout {docsify-ignore}
+
+This report provides questions and answers from the latest administration of the MI.
+
+> [!TIP] **Best Practices**
+> - Review the results of the assessment with your students
+> - Identify trends in the types of questions students answer correctly or incorrectly.
+
+```pdf
+		files/mi_student_test_printout.pdf
+```
+
+> [!NOTE] **Key Elements**
+> 1. Test info (test date, test time, number of items, student quantile)
+> 2. Results of addition and multiplication screeners. If the student answered correctly within 5 seconds, the answer was considered correct. Half circles mean students may need to work on math fact fluency.
+> 3. Each full test question the student received on the MI.
+> 4. The correct answer, the students answer, and the time it took for the student to respond to the question.
 
 ### MI Progress to College and Career Readiness Report {docsify-ignore}
 
+This section shows student progress towards grade level proficiency and college and career readiness. It also provides specific instructional recommendations using QSCs and State Standards.
+
+> [!TIP] **Best Practices**
+> - Identify specific skills and concepts for a selected student on your math FL.
+> - Share results with partner teachers to align the skills and concepts identified by the MI with what is being taught in class.
+> - Use QSC-IDs and State Standard to identify resources for planned interventions through quantiles.com or the Math Toolkit.
+
+```pdf
+		files/mi_progress_to_college.pdf
+```
+> [!NOTE] **Key Elements**
+> 1. Dates if each adnubustratui if the MI
+> 2. Results of the Math Fact Screeners
+> 3. Quantile score and performance level of each testing administration.
+> 4. Percentile rank that indicates the percentage of students in the dame grade level who received a lower score than the student
+> 5. Specific instructional recommendations for the selected student, including if they may need to focus on fact fluency.
+> 6. Provides a table of math skills and concepts that the selected student is ready to learn
+> 7. The QSC ID that aligns to the skill and concept identified
+> 8. The State standard/s which apply to the skill and concept identified
+
+
+## Classroom Reports
+
+
+
 ### MI Growth Report {docsify-ignore}
 
+This report shows changes in student quantile and performance level over time.
+
 ### MI Instructional Planning Report {docsify-ignore}
+
+This report provides recommendations for grouping students and identifies common skills and concepts students are ready to learn based on performance level.
