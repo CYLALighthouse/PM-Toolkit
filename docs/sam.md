@@ -18,7 +18,7 @@ The SAM system was designed for teachers to access Assessment scores and reports
 
 > Click [here](faq.md) to find your login info.
 
-# Reports
+# Reports {docsify-ignore}
 
 To pull reports for your students, you will want to navigate to the reports tab.
 
@@ -30,7 +30,7 @@ There are 2 types of reports you can pull.
 
 > [!WARNING] All Reports in SAM are viewable in a web browser and in a downloadable PDF. However, information provided is not always consistent between the two formats.
 
-## Student Reports
+# Student Reports
 
 Student reports are used to look at a single student at a time.
 
@@ -56,7 +56,7 @@ Student reports are used to look at a single student at a time.
 
 <!-- tabs:end -->
 
-## Classroom Reports
+# Classroom Reports
 
 Classroom reports are used to look at a group (ELA or Math FL) of students at a time.
 
@@ -83,7 +83,7 @@ Classroom reports are used to look at a group (ELA or Math FL) of students at a 
 
 <!-- tabs:end -->
 
-## Report Summaries
+# Report Summaries
 
 This section will provide:
 - A list of key reports available in SAM for Math and Reading Inventory
