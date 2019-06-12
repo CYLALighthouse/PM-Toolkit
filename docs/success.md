@@ -2,11 +2,11 @@
 
 The HMH website offers research, white papers, and a variety of best practices to better understand the Reading Inventory and Math Inventory. 
 
-- [Interpreting Assessment Results](https://prod-hmhco-vmg-craftcms-private.s3.amazonaws.com/documents/MIRIInterpretingAssessmentResults.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMFIFLXXFP4CBPDA%2F20190611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190611T223847Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=ccbea77322dc3b5d843dca63972414c73415cb63202cfbe20ae0b320ce3d8759)
+- [Interpreting Assessment Results](files/InterpretingAssessmentResults.pdf)
 	- Easy to read overview explaining why scores may vary in HMH assessments and best practices to reduce measurement error
-- [Accuracy Matters](https://prod-hmhco-vmg-craftcms-private.s3.amazonaws.com/documents/RIAccuracyMatters.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMFIFLXXFP4CBPDA%2F20190611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190611T224227Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=e15798592a83e9eeb49e64c9abc7591aa7280251081faa38ed38d8aa73329b56)
+- [Accuracy Matters](files/AccuracyMatters.pdf)
 	- In-depth, technical manual expanding on the HMH Standardized testing system
-- [Meet College and Career Readiness Goals with HMH](https://prod-hmhco-vmg-craftcms-private.s3.amazonaws.com/documents/MIRIMeetCollegeandCareerReadiness.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMFIFLXXFP4CBPDA%2F20190611%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190611T224313Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=1e97f3ddc342634969b648a5a550a8762c386fef9e5445cf65ea2e7235c97ee4)
+- [Meet College and Career Readiness Goals with HMH](files/MeetCollegeandCareerReadiness.pdf)
 	- Great resource to share with partner teachers and administration around how HMH can help students and align with Common Core State Standards
 
 ## Before the Test
