@@ -306,6 +306,35 @@ This section shows student progress towards grade level proficiency and college 
 
 This report shows changes in student quantile and performance level over time.
 
-### MI Instructional Planning Report {docsify-ignore}
+> [!TIP] **Best Practices**
+> - Use this report to identify your students' baseline assessment scores
+> - Progress monitor your students' growth in comparison with other math FL students
+> - Share this report with your partner teachers to show them the progress you are making with your students.
 
-This report provides recommendations for grouping students and identifies common skills and concepts students are ready to learn based on performance level.
+
+> [!NOTE] **Key Elements**
+> 1. Date, Quantile score, and performance level for students' 1st assessment
+> 2. Date, Quantile score, and performance level for students' latest assessment
+> 3. Growth in quantile from first to last administration (will populate after 2nd administration)
+> 4. Key provides performance level color coding and the symbol which indicates that a student took less than 15 minutes to take the assessment
+> 5. Highlights the quantile range that would indicate as a student reached grade level proficiency by the end of the year.
+
+### MI Instructional Planning Report  {docsify-ignore}
+
+This report provides recommendations for grouping students and identifies common skills and concepts students are ready to learn based on performance level.\
+
+> [!TIP] **Best Practices**
+> - Group your students to groups to maximize planned intervention time relevant to the students in the group.
+> - Regroup students after the second administration
+> - Share with partner teachers to align the skills and standards identified by the MI with what is being taught in class
+> - Using QSC-IDs and state standards to identify resources for planned interventions through quantiles.com or the City Year Math Toolkit
+
+> [!NOTE] **Key Elements**
+> 1. Student Performance Level for latest quantile score
+> 2. Results of the Math Facts Screener students took on the MI
+> 3. Quantile score, test date, and amount of time student took to complete the assessment
+> 4. Percentile Rank tells what percint of students in the same grade received lower scores than your student
+> 5. Provides a table of all students within a specific performance level
+> 6. Provides a table of common math skills and oncepts that each student within the performance level are ready to learn
+> 7. QSC-ID that aligns to the skill and concep identified
+> 8. The State standard(s) that apply to the skill and concept identified
