@@ -74,5 +74,5 @@ Determine or clarify the meaning of unknown and multiple-meaning words and phras
 
 | Skills  | Key Academic Vocabulary  |
 |---|---|
-| <ol><li>Use annotations to read for understanding (click/clunk)</li><li>Use various resources (dictionary, prefixes/suffixes, cognates) to determine the meaning of unknown words</li><li>Use context clues to determine the meaning of unknown: a. Words b. Phrases</li></ol> | <ol><li>Context Clues</li><li>Prefix and Suffix</li><li>Cognates (connections to other language)</li></ol> |
+| <ol><li>Use annotations to read for understanding (click/clunk)</li><li>Use various resources (dictionary, prefixes/suffixes, cognates) to determine the meaning of unknown words</li><li>Use context clues to determine the meaning of unknown: <ol><li>Words</li><li>Phrases</li></ol></li></ol> | <ol><li>Context Clues</li><li>Prefix and Suffix</li><li>Cognates (connections to other language)</li></ol> |
 
