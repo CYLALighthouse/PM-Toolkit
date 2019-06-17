@@ -70,20 +70,3 @@ The RI is based on the Lexile Framework for Reading, a scientifically accurate s
 
 ?> **Computer Adaptive Design**		As students progress through the assessment, the difficulty level of questions change according to the students' performance. If the student correctly answers a question, the Lexile measure of the next question increase. If the student incorrectly answers a question, the Lexile measure of the next question decreases. The assessment ends once the student has answered a sufficient number of questions to determine an accurate Lexile measure.
 
-
-<div id="disqus_thread"></div>
-<script>
-
-var disqus_config = function () {
-this.page.url = 'https://karenmjiang.github.io/CYLA_Assessments_Toolkit/#/';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 'ri'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://cylatoolkits.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>

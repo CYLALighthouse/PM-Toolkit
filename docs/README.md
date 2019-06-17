@@ -1,8 +1,10 @@
-# CYLA Assessments Toolkit
+# CYLA WSWC Toolkit
 
-Welcome to CYLA Assessment Toolkit! We hope this guide will be your reference for questions / learning related to the tools and systems you will be using during your service.
+Welcome to CYLA Whole School Whole Child (WSWC) Toolkit! We hope this guide will be your reference for questions / learning related to the tools and systems you will be using during your service.
 
 If you have any additional questions, please check out the [FAQ](faq.md) or [Submit a Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx).
+
+If you would like to make improvements or request new content for this site, please reach out the the Impact Analytics team, or submit your idea through a Help Desk Ticket.
 
 ## Resources
 
@@ -19,24 +21,3 @@ If you have any additional questions, please check out the [FAQ](faq.md) or [Sub
 - Sidebar navigation
 - Downloadable PDF embeds
 - Comments and reacts 
-
-<div id="disqus_thread"></div>
-<script>
-
-/**
-*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
-
-var disqus_config = function () {
-this.page.url = 'https://karenmjiang.github.io/CYLA_Assessments_Toolkit/#/';  // Replace PAGE_URL with your page's canonical URL variable
-this.page.identifier = 'ri'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-};
-
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://cylatoolkits.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
