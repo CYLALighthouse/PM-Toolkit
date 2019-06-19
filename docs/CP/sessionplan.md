@@ -32,4 +32,4 @@ Lexile score tells you the texts that would be the right fit for this student. T
 
 #### Step 6. Determine the Lexile Range of text You Will Use
 
-
+## Using Data from the Math Inventory
