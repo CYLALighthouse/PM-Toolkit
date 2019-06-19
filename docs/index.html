@@ -16,22 +16,12 @@
     window.$docsify = {
       name: 'CYLA Assessments Toolkit',
       repo: 'https://github.com/karenmjiang/CYLA_Assessments_Toolkit',
+      logo: '/_images/logo-cy-patch.png',
 
       coverpage: true,
       auto2top: true,
-      loadSidebar: true,
-
+      loadSidebar: false,
       subMaxLevel: 2,
-      logo: '/_images/logo-cy-patch.png',
-      search: {
-        noData: {
-          '/': 'No results!'
-        },
-        paths: 'auto',
-        placeholder: {
-          '/': 'Search'
-        }
-      },
 
       tabs: {
         persist    : true,      // default
@@ -49,9 +39,6 @@
   </script>
 
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-
-  <!-- <script src="//unpkg.com/docsify@4.8.0/lib/docsify.min.js"></script> -->
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
 
   <script src="//cdnjs.cloudflare.com/ajax/libs/pdfobject/2.1.1/pdfobject.min.js"></script> 
   <script src="src/docsify-pdf-embed.js"></script>

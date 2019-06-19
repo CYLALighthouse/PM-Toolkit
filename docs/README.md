@@ -8,11 +8,11 @@ If you would like to make improvements or request new content for this site, ple
 
 ## Resources
 
-- [ELA Toolkit](https://cityyear.sharepoint.com/teams/lax/LandD/Student%20Planning%20and%20Progress%20Monitoring/ELA%20Toolkit.pdf)
-- [Math Toolkit](https://cityyear.sharepoint.com/teams/lax/LandD/Student%20Planning%20and%20Progress%20Monitoring/Math%20Toolkit%20FY19.pdf)
-- [Behavior Toolkit](https://cityyear.sharepoint.com/teams/lax/LandD/Attendance%20Resources%20Templates/FY19%20Behavior%20Toolkit.pdf)
+- [ELA Toolkit](ela.md)
+- [Math Toolkit](math.md)
+- [Behavior Toolkit](behavior.md)
 - [SEL Goal Tracker](https://cityyear.sharepoint.com/teams/lax/SitePages/SELgoal.aspx)
-- [Attendance Toolkit](https://cityyear.sharepoint.com/teams/lax/LandD/Attendance%20Resources%20Templates/FY19%20Attendance%20Toolkit.pdf)
+- [Attendance Toolkit](attendance.md)
 
 
 ## Features
