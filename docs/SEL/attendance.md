@@ -1,3 +1,3 @@
 ```pdf
-		_files/attendance_toolkit.pdf
+		files/attendance_toolkit.pdf
 ```
