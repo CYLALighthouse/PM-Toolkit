@@ -12,3 +12,6 @@
 [Get Started](README.md)
 [SAM Login](https://h100002412.education.scholastic.com/ScholasticCentral)
 [HMH Login](https://h100002412.education.scholastic.com/)
+
+
+![RI Performance Bands](/_images/RIBands.jpg ':size=100%')
