@@ -1,5 +1,0 @@
-- HMH
-	- [The Reading Inventory](HMH/ri.md)
-	- [The Math Inventory](HMH/mi.md)
-	- [SAM Reports](HMH/sam.md)
-	- [Testing for Success](HMH/success.md)
