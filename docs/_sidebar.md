@@ -5,7 +5,6 @@
 	- [The Math Inventory](mi.md)
 	- [SAM Reports](sam.md)
 	- [Testing for Success](success.md)
-
 	
 - Course Performance Resources
 
