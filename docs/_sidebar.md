@@ -12,11 +12,11 @@
 	- [Math Toolkit](math.md)
 	- [Creating SSMs](supportmap.md)
 	- [Creating SPs](sessionplan.md)
-	
+
 - SEL Resources
 
 	- [Attendance Toolkit](attendance.md)
 	- [Behavior Toolkit](behavior.md)
-	- [Aperture](dessa.md)
+	- Aperture
 
 - [FAQs](faq.md)

@@ -4,7 +4,7 @@
 
 # FY20 City Year Whole School Whole Child (WSWC) Toolkit
 
-> This is your magical guide for tools and resources to successfully execute our Whole School Whole Child Model.
+> This is your magical guide for tools and resources to successfully execute City Year's Whole School Whole Child Model.
 
 - Toolkit version #3
 - Date Created: 5/9/2019
