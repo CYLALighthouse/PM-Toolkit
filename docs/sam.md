@@ -321,7 +321,7 @@ This report shows changes in student quantile and performance level over time.
 
 ### MI Instructional Planning Report  {docsify-ignore}
 
-This report provides recommendations for grouping students and identifies common skills and concepts students are ready to learn based on performance level.\
+This report provides recommendations for grouping students and identifies common skills and concepts students are ready to learn based on performance level.
 
 > [!TIP] **Best Practices**
 > - Group your students to groups to maximize planned intervention time relevant to the students in the group.
