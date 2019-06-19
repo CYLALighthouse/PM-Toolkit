@@ -5,7 +5,7 @@
 	- [The Math Inventory](mi.md)
 	- [SAM Reports](sam.md)
 	- [Testing for Success](success.md)
-<!--
+
 - DESSA
 
 	- [Aperture](dessa.md)
@@ -24,4 +24,3 @@
 	- [Behavior Toolkit](behavior.md)
 
 - [FAQs](faq.md)
--->
