@@ -1,26 +1,25 @@
 <!-- _sidebar.md -->
 - HMH
 
-	- [The Reading Inventory](HMH/ri.md)
-	- [The Math Inventory](HMH/mi.md)
-	- [SAM Reports](HMH/sam.md)
-	- [Testing for Success](HMH/success.md)
+	- [The Reading Inventory](ri.md)
+	- [The Math Inventory](mi.md)
+	- [SAM Reports](sam.md)
+	- [Testing for Success](success.md)
 
 	
 - Course Performance Resources
 
-
-	- [ELA Toolkit](CP/ela.md)
+	- [ELA Toolkit](ela.md)
 	- [CCRA](elatk.md)
-	- [Math Toolkit](CP/math.md)
-	- [Creating SSMs](CP/supportmap.md)
-	- [Creating SPs](CP/sessionplan.md)
+	- [Math Toolkit](math.md)
+	- [Creating SSMs](supportmap.md)
+	- [Creating SPs](sessionplan.md)
 
 
 - SEL Resources
 
-	- [Attendance Toolkit](SEL/attendance.md)
-	- [Behavior Toolkit](SEL/behavior.md)
-	- [Aperture](SEL/dessa.md)
+	- [Attendance Toolkit](attendance.md)
+	- [Behavior Toolkit](behavior.md)
+	- [Aperture](dessa.md)
 
 - [FAQs](faq.md)
