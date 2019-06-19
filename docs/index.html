@@ -16,22 +16,14 @@
     window.$docsify = {
       name: 'CYLA Assessments Toolkit',
       repo: 'https://github.com/karenmjiang/CYLA_Assessments_Toolkit',
+      logo: '/_images/logo-cy-patch.png',
 
       coverpage: true,
       auto2top: true,
-      loadSidebar: true,
-
+      loadSidebar: false,
       subMaxLevel: 2,
-      logo: '/_images/logo-cy-patch.png',
-      search: {
-        noData: {
-          '/': 'No results!'
-        },
-        paths: 'auto',
-        placeholder: {
-          '/': 'Search'
-        }
-      },
+
+      search: 'auto',
 
       tabs: {
         persist    : true,      // default
