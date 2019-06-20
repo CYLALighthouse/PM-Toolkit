@@ -1,6 +1,3 @@
-# Hello this is a test!
-
-
 # The Math Inventory (MI)
 
 

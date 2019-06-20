@@ -17,4 +17,4 @@
 ![cityscape](/_images/cityscape.png ':size=100%')
 
 
-<img src="/_images/cityscape.png" alt="cityscape" style="width:100%;"/>
+<img src="_images/cityscape.png" alt="cityscape" style="width:100%;"/>
