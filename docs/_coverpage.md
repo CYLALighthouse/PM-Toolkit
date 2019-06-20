@@ -14,4 +14,9 @@
 [HMH Login](https://h100002412.education.scholastic.com/)
 
 
-![RI Performance Bands](/_images/cityscape.png)
+<!-- background image -->
+![](/_images/cityscape.png)
+
+
+<!-- background color -->
+![color](#3ac2cf)
