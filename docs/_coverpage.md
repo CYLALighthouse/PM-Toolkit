@@ -14,4 +14,4 @@
 [HMH Login](https://h100002412.education.scholastic.com/)
 
 
-<img src="_images/cityscape.png" alt="cityscape" style="width:150%;"/>
+<img src="_images/cityscape.png" alt="cityscape" style="width:100%;"/>
