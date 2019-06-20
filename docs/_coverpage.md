@@ -14,9 +14,7 @@
 [HMH Login](https://h100002412.education.scholastic.com/)
 
 
-<!-- background image -->
-![](/_images/cityscape.png)
+
+![cityscape](/_images/cityscape.png ':size=100%')
 
 
-<!-- background color -->
-![color](#3ac2cf)
