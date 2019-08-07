@@ -40,6 +40,8 @@ To run a report, select the report you are interested in, and click the **RUN RE
 
 ![SAM Student Reports](/_images/SAMStudent.png)
 
+> [!TIP] Click on the Report Names below to navigate directly to that section!
+
 <!-- tabs:start -->
 
 #### ** Reading Inventory **
@@ -71,6 +73,8 @@ To run a report, select the report you are interested in, and click the **RUN RE
 > [!NOTE] When running Classroom Reports, make sure you have a class selected (ELA Whole Class / Math Whole Class) on the left-hand panel.
 
 ![SAM Classroom Reports](/_images/SAMClassroom.png)
+
+> [!TIP] Click on the Report Names below to navigate directly to that section!
 
 
 <!-- tabs:start -->
