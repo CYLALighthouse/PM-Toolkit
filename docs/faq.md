@@ -1,6 +1,6 @@
 # Frequently Asked Questions
 
-If your questions are not answered here, or if you have any comments or suggestions, please feel free to submit a [Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx)
+> [!TIP] If your questions are not answered here, or if you have any comments or suggestions, please feel free to submit a [Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx)
 
 ### Where do I find my log-in information for SAM?
 
