@@ -40,6 +40,10 @@ PowerBi updates every two hours and pulls up new information from the CySchoolho
 
 During HMH and DESSA windows, HMH scores and DESSA scores will be updated daily.
 
+You can click on blah blah to find when it was last updated.
+
+![UpdatePowerBI](/_images/UpdatePowerBI.png)
+
 ## Glossary
 
 **Computer Adaptive Testing**: A Computer Adaptive Test adapts to the students’ responses. Once a student starts the assessment questions get easier or harder according to performance, and when the computer has enough information to generate a final Quantile measure, the assessment stops. 
