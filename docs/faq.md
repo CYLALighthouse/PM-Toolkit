@@ -34,6 +34,11 @@ You may retest your students for one of the following reasons:
 3. Student score dropped 100 or more points from the previous administration
 4. Logistic issues prevented assessment completion within the given time frame
 
+### How many times does PowerBi update?
+
+PowerBi updates every two hours and pulls up new information from the CySchoolhouse.
+
+During HMH and DESSA windows, HMH scores and DESSA scores will be updated daily.
 
 ## Glossary
 
