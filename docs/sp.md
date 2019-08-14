@@ -30,7 +30,7 @@ Step 7: Fill out the Gradual Release of Responsibility
 
 	- *You Do*: This is the portion where you will give all of the responsibility to your student. You want to make this 2-5 questions, to ensure that they understood the process of finding the answer.
 
-	- *Check for Understanding and Open Ended Questions* (CFUs/OEQs): Each of the above sections has another section to the right of it called CFUs and OEQs. You will want to write down questions that you want to ask your student(s). You want to make sure that they are open ended questions and they refer to check their understanding of each process. 
+	- *Check for Understanding and Open Ended Questions* _(CFUs/OEQs)_: Each of the above sections has another section to the right of it called CFUs and OEQs. You will want to write down questions that you want to ask your student(s). You want to make sure that they are open ended questions and they refer to check their understanding of each process. 
 
 
 
