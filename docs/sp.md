@@ -3,13 +3,13 @@
 Step 1: Download SP file
 
 Step 2: Fill out the top portion of the Session Plan file:
-	- Students
+- Students
 
-	- ACM
+- ACM
 
-	- DESSA Focus 
+- DESSA Focus 
 
-Step 3: Write what CCSS Standard that you will be targeting for this session. This will be the standard that you obtained from the SAM report that you would want to focus on for the nest 6 weeks.
+Step 3: Write what CCSS Standard that you will be targeting for this session. This will be the standard that you obtained from the SAM report that you would want to focus on for the nest 6 weeks. If you need a refresher about SAM click [here](sam.md).
 
 Step 4: Create the Learning Objective for the day. This is the main lesson that you will be teaching your student(s). 
 
