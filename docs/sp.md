@@ -22,6 +22,17 @@ Step 6: Fill out the Opening portion of the Session Plan.
 
 	- Warm-up: You want to include a light warm-up for your session that will help ground them to the lesson. Most likely realting to the topic of your lesson. If you are doing a math lesson have them do a math warm-up. If you are doing an ELA lesson you should be doing a ELA warm-up.
 
+Step 7: Fill out the Gradual Release of Responsibility
+	
+	- *I Do*: This is where you will be taking all of the responsibility and modeling how you would approach the lesson for the day. The student should be watching you as you complete the process. This is also the space where, if you have an Anchor chart, you will show them how to navigate the Anchor Chart.
+
+	- *We Do*: In this step both the student and you should spend the most time and practice together in solving the problems you have created for them. **Note** If you have any trick questions that you want to make your student aware of, this is where you should go over it. 
+
+	- *You Do*: This is the portion where you will give all of the responsibility to your student. You want to make this 2-5 questions, to ensure that they understood the process of finding the answer.
+
+	- *Check for Understanding and Open Ended Questions* (CFUs/OEQs): Each of the above sections has another section to the right of it called CFUs and OEQs. You will want to write down questions that you want to ask your student(s). You want to make sure that they are open ended questions and they refer to check their understanding of each process. 
+
+
 
 This is how you create a list:
 - Bullet
