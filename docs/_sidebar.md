@@ -14,5 +14,6 @@
 - SEL Resources
 	- [Attendance Toolkit](attendance.md)
 	- [Behavior Toolkit](behavior.md)
+	- [Zack Practice](practice.md)
 
 - [FAQs](faq.md)
