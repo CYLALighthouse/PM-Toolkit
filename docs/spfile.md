@@ -39,3 +39,11 @@ Step 7: Fill out the Gradual Release of Responsibility
 - *You Do*: This is the portion where you will give all of the responsibility to your student. You want to make this 2-5 questions, to ensure that they understood the process of finding the answer.
 
 - *Check for Understanding and Open Ended Questions* _(CFUs/OEQs)_: Each of the above sections has another section to the right of it called CFUs and OEQs. You will want to write down questions that you want to ask your student(s). You want to make sure that they are open ended questions and they refer to check their understanding of each process. 
+
+Step 8: Your Closing
+
+Your closing should be short and sweet. This can be having the student summarize what they read about, or having them repeat the process that they just learned. This is time for a final check fo understanding to ensure if your student(s) understood what you taught them.
+
+_Optional_ Step 9: Reflection and SSM Commitments:
+
+You should reflect on your session with your student(s). This is important so you can figure out what could have gone better, or what are some better practices that could work for you in future sessions. This may be from grouping of students to what content you bring to your session. 
