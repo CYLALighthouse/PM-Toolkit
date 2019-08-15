@@ -9,7 +9,7 @@
 	- [ELA Toolkit](ela.md)
 	- [Math Toolkit](math.md)
 	- [Creating SSMs](supportmap.md)
-	- [Creating SPs](ssp.md)
+	- [Creating SPs](spfile.md)
 
 - SEL Resources
 	- [Attendance Toolkit](attendance.md)
