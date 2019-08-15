@@ -40,7 +40,7 @@ PowerBi updates every two hours and pulls up new information from the CySchoolho
 
 During HMH and DESSA windows, HMH scores and DESSA scores will be updated daily.
 
-You can click on blah blah to find when it was last updated.
+You can click on FY19 ACM Impact Dashboard to find when it was last updated.
 
 ![UpdatePowerBI](/_images/UpdatePowerBI.png)
 
