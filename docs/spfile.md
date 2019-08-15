@@ -2,7 +2,7 @@
 		files/session_plan_template.pdf
 ```
 
-#Creating Session Plans
+# Creating Session Plans
 
 ### Step 1: Download SP file
 
@@ -19,7 +19,7 @@ This will be the standard that you obtained from the SAM report that you would w
 
 ### Step 4: Create the Learning Objective for the day. 
 
-This is the main lesson that you will be teaching your student(s). 
+**This is the main lesson that you will be teaching your student(s).** 
 
 Step 5: List out the materials and how you would want the room to be set up for your particular group. This may be different for each group considering the modalities and DESSA strengths and weaknesses.
 
