@@ -4,6 +4,19 @@
 
 # Common Core Reading Anchors
 
+##Standards Breakdown
+
+	**Why focus on reading?** 
+		
+		- To be college and career ready, students must read widely and deeply from a broad range of high quality, increasingly challenging literary and informational texts. They must learn reading strategies to comprehend a given text and ultimately, identify and question what the author or speaker is saying. Therefore, more exposure to stories, dramas, poems and myths from diverse cultures and different time periods will help them widen their perspectives.
+
+	**What are the Anchor Standards?**
+
+		- The Common Core Standards for English Language Arts comprise both _College and Career Readiness Anchor (CCRA) Standards and grade-specific standards_. The CCRA Standards and grade-specific standards help define the skills and understandings that all students must demonstrate. CYLA uses CCRA standards for planned interventions because they provide the most essential skills for reading and learning. YOu should reference with your partner teacher for the grade-specific standard to figure out what your students should understand by the end of each grade.
+
+	**How do I use the Anchor Standards Breakdown?**
+	![Anchor Standards Chart](/_images/anchor_standards.png)
+
 [Common Core Reading Anchors (CCRA)](http://www.corestandards.org/ELA-Literacy/CCRA/R/)
 
 ## Reading Strategies
