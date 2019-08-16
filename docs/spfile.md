@@ -28,7 +28,7 @@ Step 6: Fill out the Opening portion of the Session Plan.
 	
 - Expectations: These are the expectations that you and your students set for your sessions. 
 
-- Warm-up: You want to include a light warm-up for your session that will help ground them to the lesson. You want theis warm-up to relate to the topic of your lesson. If you are doing a math lesson have them do a math warm-up. If you are doing an ELA lesson you should be doing a ELA warm-up.
+- Warm-up: You want to include a light warm-up for your session that will help ground them to the lesson. You want this warm-up to relate to the topic of your lesson. If you are doing a math lesson have them do a math warm-up. If you are doing an ELA lesson you should be doing a ELA warm-up.
 
 Step 7: Fill out the Gradual Release of Responsibility
 	
