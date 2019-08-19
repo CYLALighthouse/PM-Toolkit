@@ -2,6 +2,13 @@
 		files/ela_toolkit.pdf
 ```
 
+
+# Common Core Reading Anchors
+
+![AnchorStandardsChart](/_images/anchor_standards.png)
+
+	-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those skills. 
+
 ##Standards Breakdown
 
 	- **Why focus on reading?** 
@@ -17,13 +24,6 @@
 	![AnchorStandardsChart](/_images/anchor_standards.png)
 
 		-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those skills. 
-
-
-# Common Core Reading Anchors
-
-![AnchorStandardsChart](/_images/anchor_standards.png)
-
-	-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those skills. 
 
 
 [Common Core Reading Anchors (CCRA)](http://www.corestandards.org/ELA-Literacy/CCRA/R/)
