@@ -1,7 +1,5 @@
 # Common Core Reading Anchors
 
-![AnchorStandardsChart](/_images/anchor_standards.png)
-
 	-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those skills. 
 
 ##Standards Breakdown
@@ -16,7 +14,7 @@
 
 	- **How do I use the Anchor Standards Breakdown?**
 
-	![AnchorStandardsChart](/_images/anchor_standards.png)
+![AnchorStandardsChart](/_images/anchor_standards.png)
 
 		-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those skills. 
 
