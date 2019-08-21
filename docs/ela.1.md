@@ -16,8 +16,19 @@
 
 ![AnchorStandardsChart](/_images/anchor_standards.png)
 
-		-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those skills. 
+		-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those any reading or comprehension skills. 
 
+1. ![CCR1](/_images/CCR1.png)
+
+2. ![CCR1](/_images/CCR2.png)
+
+3. ![CCR1](/_images/CCR3.png)
+
+4. ![CCR1](/_images/CCR4.png)
+
+5. ![CCR1](/_images/CCR5.png)
+
+6. ![CCR1](/_images/CCR6.png)
 
 [Common Core Reading Anchors (CCRA)](http://www.corestandards.org/ELA-Literacy/CCRA/R/)
 
