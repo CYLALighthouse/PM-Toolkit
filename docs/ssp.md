@@ -83,3 +83,6 @@ For the ELA File
 	![AnchorStandardsChart](/_images/anchor_standards.png)
 
 	-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those skills. 
+
+
+![AnchorStandardsChart](/_images/anchor_standards.png)
