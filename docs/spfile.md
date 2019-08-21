@@ -44,6 +44,6 @@ This will be the standard that you obtained from the SAM report that you would w
 
 Your closing should be short and sweet. This can be having the student summarize what they read about, or having them repeat the process that they just learned. This is time for a final check for understanding to ensure if your student(s) understood what you taught them.
 
-_Optional_ Step 9: Reflection and SSM Commitments:
+### _Optional_ Step 9: Reflection and SSM Commitments:
 
 You should reflect on your session with your student(s). This is important so you can figure out what could have gone better, or what are some better practices that could work for you in future sessions. This may be from grouping of students to what content you bring to your session. 
