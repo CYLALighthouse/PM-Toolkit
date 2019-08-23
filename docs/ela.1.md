@@ -66,4 +66,4 @@ Skills and Academic Vocabulary breakdown to build your objectives in your SSM.
 
 	- After Reading: Instructors employ strategies that help students access the text and fully comprehend anything that was unclear. Students should be able to summarize the text, make inferences, and support arugment using textual evidence.
 
-To go more in depth of what _Guided Reading_ looks like go to (Guided Reading)[guidedreading.md]
+To go more in depth of what _Guided Reading_ looks like go to [Guided Reading](guidedreading.md)
