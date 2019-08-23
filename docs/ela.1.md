@@ -16,7 +16,19 @@
 
 ![AnchorStandardsChart](/_images/anchor_standards.png)
 
--The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those any reading or comprehension skills. 
+-The next few things you will see is each standard and how it is broken down into _concrete skills_ and _academic vocabulary_, the tools that students must know to exercise those any reading or comprehension skills. After you have choosen the skill from your SAM page use the following steps to figure out the standard you will be working on for the next 6 weeks. 
+
+If you have not picked a your skill from SAM please refer back to [SAM Reports](sam.md)
+
+-	Step 1: Select the reading strategy you would like to focus on in left column of the chart below.
+
+-	Step 2: Choose one of the corresponding CCRA Standards listed along the top
+as indicated by an “X” in the row of your selected reading strategy.
+
+-	Step 3: Find the breakdown of your standard in the list below and use the
+Skills and Academic Vocabulary breakdown to build your objectives in your SSM.
+
+-	Step 4: Use the resources in this ELA Toolkit to teach this standard using this reading strategy
 
 ![CCR1](/_images/CCR1.png)
 
