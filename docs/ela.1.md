@@ -48,7 +48,7 @@ Skills and Academic Vocabulary breakdown to build your objectives in your SSM.
 [Common Core Reading Anchors (CCRA)](http://www.corestandards.org/ELA-Literacy/CCRA/R/)
 
 
-## Reading Strategies
+## Reading Strategy
 
 - Guided Reading: Small group reading program designed to help students, who are around the same reading level, with understanding what they are reading and using a variety of comprehension strategies.
 
@@ -65,3 +65,5 @@ Skills and Academic Vocabulary breakdown to build your objectives in your SSM.
 		- Other Comprehansion Strategies: visualizing the text, making connections while reading, and annotating the text.
 
 	- After Reading: Instructors employ strategies that help students access the text and fully comprehend anything that was unclear. Students should be able to summarize the text, make inferences, and support arugment using textual evidence.
+
+To go more in depth of what _Guided Reading_ looks like go to (Guided Reading)[guidedreading.md]
