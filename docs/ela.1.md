@@ -12,7 +12,7 @@
 
 	-The Common Core Standards for English Language Arts comprise both _College and Career Readiness Anchor (CCRA) Standards and grade-specific standards_. The CCRA Standards and grade-specific standards help define the skills and understandings that all students must demonstrate. CYLA uses CCRA standards for planned interventions because they provide the most essential skills for reading and learning. YOu should reference with your partner teacher for the grade-specific standard to figure out what your students should understand by the end of each grade.
 
-- **How do I use the Anchor Standards Breakdown?**
+## **How do I use the Anchor Standards Breakdown?**
 
 ![AnchorStandardsChart](/_images/anchor_standards.png)
 
