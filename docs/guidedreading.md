@@ -4,10 +4,7 @@ Here we will put together the guided reading walkthrough. This way it is less in
 
 [Before Reading Strategies](/https://cityyear.sharepoint.com/teams/lax/LandD/Student%20Planning%20and%20Progress%20Monitoring/ELA%20Toolkit.pdf ':target=22blank')
 
-[Before Reading Strategies](ela_toolkit.pdf ':target=22 self')
+[Before Reading Strategies](ela_toolkit.pdf '22')
 
-[Before Reading Strategies](ELA_Toolkit.pdf ':target=22 blank')
 
 https://cityyear.sharepoint.com/teams/lax/LandD/Student%20Planning%20and%20Progress%20Monitoring/ELA%20Toolkit.pdf
-
-<script src="path-to-file/docsify-pdf-embed.js"></script>
