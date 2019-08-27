@@ -21,6 +21,29 @@
 - [ ] 'Click and Clunk' 
 	- [ ] This is a self-monitor comprehension strategy. This gives the student an opportunity to identify what they are understanding, and where they are getting confused. "Click" would be the things they undertood and "Clunk" would be the things they had confusion about.
 - [ ] 'Word Attack' 
+	- [ ] This is a strategy that helps utilizes:
+		- [ ] Root words: breaking words down to prefix, root word, and suffix
+		- [ ] Context Clues: examine the language around the word and gain a definition based on the context
+		- [ ] Frayer Model: a model that a student finds the definition, characteristic of the word, examples and non-examples
+- [ ] Visualize
+	- [ ] Using this strategy helps the student with creating a movie, or pictures of what the author is trying to describe. Bringing the text to life
+- [ ] Create Connections to Self, Text, and World
+	- [ ] Text to self: relating what they read to one's own experience
+	- [ ] Text to text: relating what they read to knowledge of events or text structures in other books
+	- [ ] Text to world: relating what they read to what they know and understand has happened in the world in which they reside
+- [ ] Annotate
+	- [ ] Annotation helps with the reader staying focus and identifying important facts, words, questions, etc. by marking them down as they are reading
+
+#### **After Reading**
+
+- [ ] 'Get the Gist'
+	- [ ] This strategy helps the reader identify the main ideas/important moments in about 20 words or less. Best practice is using the 5 W's and H to help create a gist/summary.
+		- [ ] 5 W's and H: Who, What, When, Where, Why, and How
+- [ ] 'It Says, I say, And So'
+	- [ ] This strategy will help with drawing conclusions even if not all the information is present. Refer to the text, have the reader express what they think it says. From there they can create an understanding what it is actually saying.
+- [ ] Evaluate
+	- [ ] Supporting Claims with Evidence and Warrants (CEW)
+		- [ ] This strategy helps readers with selecting appropriate, quality evidence and coming up with analytical explanations for their assertions.
 
 
 <!-- tabs:end -->
