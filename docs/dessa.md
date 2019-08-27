@@ -28,7 +28,7 @@ When it comes down to coming up with lessons for your students, always remember 
 
 Go ahead and click on **Strategies**.
 
-![DESSA strat](/_images/Dessa1.png)
+![DESSA strat](/_images/Dessa1.jpg)
 
 - Once you click on strategies you, should be able to see the page below. 
 
