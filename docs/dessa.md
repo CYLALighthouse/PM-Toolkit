@@ -38,7 +38,7 @@ Go ahead and click on **Strategies**.
 
 ![DESSA layout](/_images/Dessa3.png)
 
-- It usually has a "Teacher Reflection and Action" template, and the rest are universal templates that you can use. 
+- It usually has a "Teacher Reflection and Action" template, some universal templates, small groups, and even individual templates that you can use. If you have a parent that would like some lessons for the student to do at home there is even a template for them to take home near the bottom of the page.
 
 For example, if I chose _Self Awareness_, like I did in the picture, and I were facilitating a Behavior Lesson Plan I would click on _A Time I Helped_. It will pop up a pdf that has the lesson already built out for me. I would read through the entire lesson and modify it for my student and make sure that it suits them the best it can. 
 
