@@ -9,4 +9,10 @@ After you have picked your skill refer to the interactive pdf below to find what
 ```
 If you need help please follow the steps below to help you out.
 
-### Step 1: Use your skill that you picked from your SAM report and 
+### Step 1: Use your skill that you picked from your SAM report and identify it on the _Standard Focus Column_.
+
+### Step 2: Once you find and compare the Standard Focus to your skill, go ahead and click on the _Standard_ deinfed next to it and it will take you to the _Standard Outline_.
+
+- In the Standard outline, it tells you the scaffolding skills that the student will be learning for the next six weeks. It also give you Key Concepts/Vocab and a pre-built lessonfor you to use. 
+
+### Step 3: _**Optional**_ Use the pre-built lesson that is provided and break it down so you can help scaffold the skill for your student. Always remember to adjust accordingly to your specific students needs.
