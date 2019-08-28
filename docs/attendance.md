@@ -59,4 +59,4 @@ Below you will see a chart that shows the possible absences for each student in 
 
 Ideally you would be choosing students who fall into the _Below Basic_ and _Basic_ band. If you or a partner teacher chooses a student in the _Far Below Basic_ band, talk to your PM first, where they may suggest talking with the Pupil Services and Attendance (PSA) counselor.
 
-![Attendance band](AttendanceBand.png)
+![Attendance band](/_images/AttendanceBand.png)
