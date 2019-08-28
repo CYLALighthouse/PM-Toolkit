@@ -1,6 +1,3 @@
-```pdf
-		files/attendance_toolkit.pdf
-```
 
 # Attendance Toolkit 
 
