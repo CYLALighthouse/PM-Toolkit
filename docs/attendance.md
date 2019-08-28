@@ -57,3 +57,41 @@ Below you will see a chart that shows the possible absences for each student in 
 Ideally you would be choosing students who fall into the _Below Basic_ and _Basic_ band. If you or a partner teacher chooses a student in the _Far Below Basic_ band, talk to your PM first, where they may suggest talking with the Pupil Services and Attendance (PSA) counselor.
 
 ![Attendance band](/_images/AttendanceBand.png)
+
+## Guiding CICO Questions
+
+<!-- tabs:start -->
+
+#### **Check-Ins**
+
+- [ ] What are some classes you are looking forward to this week?
+- [ ] What classes do you normally get to on time?
+- [ ] Motivational quote for the week
+- [ ] Review their attendance from the previous week:
+	- [ ] What can we do differently that we didn't do last week?
+	- [ ] What can we continue this week to keep us on track?
+- [ ] What helps you get to class on time?
+
+#### **Check-Outs**
+
+- [ ] What are some of your glows for the week?
+- [ ] Where are some areas of growth?
+- [ ] If you could prioritize changing on of those grows to a glow which one would it be?
+	- [ ] What are some ways you could do that?
+- [ ] What will be our focus for next week?
+
+#### **Long Term Impact**
+
+- [ ] How will working on your attendance benefit you as a student?
+- [ ] How does this benefit you as a person?
+- [ ] Where else does attendance matter in your life?
+
+#### **Student Support System**
+
+- [ ] How does your circle of friends influence your decisions?
+- [ ] How can we change the influences that hold us back into positive influences?
+- [ ] How can I support your attendance?
+- [ ] Who can help me with your attendance goal and how?
+	- [ ] Accountability buddy/Key Influencer)
+
+<!-- tabs:end -->
