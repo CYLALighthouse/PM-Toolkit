@@ -4,10 +4,7 @@ The Math Toolkit is used to identify what are the foundational learning gaps for
 
 After you have picked your skill refer to the interactive pdf below to find what Standard you would like to work on for the six week period.
 
-```pdf
-		files/Math_TK_Standards.pdf
-```
-If you need help please follow the steps below to help you out.
+Follow the steps below to help pick out the CCSS and a lesson guide you can use for your planned interventions
 
 ### Step 1: Use your skill that you picked from your SAM report and identify it on the _Standard Focus Column_.
 
@@ -16,3 +13,9 @@ If you need help please follow the steps below to help you out.
 - In the Standard outline, it tells you the scaffolding skills that the student will be learning for the next six weeks. It also give you Key Concepts/Vocab and a pre-built lessonfor you to use. 
 
 ### Step 3: _**Optional**_ Use the pre-built lesson that is provided and break it down so you can help scaffold the skill for your student. Always remember to adjust accordingly to your specific students needs.
+
+!> To make sure ou are not scrolling so much, once you click on the standard, it will take you to that standard in the PDF. But, if you need to get back to the top where all the standards are you can go ahead and click _**Back to ccss Standard**_ and it will take you back to the top of the PDF.
+
+```pdf
+		files/Math_TK_Standards.pdf
+```
