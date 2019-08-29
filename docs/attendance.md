@@ -3,7 +3,7 @@
 
 ## Understanding Causes of Student Absenteeism
 
-There are countless causes for a student to be absent. Here are some questions that can help lead a conversation to figure out how to best support your student and what they might need to come to school more often.???
+There are countless causes for a student to be absent. A lot of which will be very difficult to understand if we are not asking the right questions. Here are some questions that can help lead a conversation to figure out how to best support your student and what they might need to increase their attendance. Always remember to consult your PM first before talking to your student(s), just to make sure you have the best approach. 
 
 <!-- tabs:start -->
 
@@ -95,3 +95,15 @@ Ideally you would be choosing students who fall into the _Below Basic_ and _Basi
 	- [ ] Accountability buddy/Key Influencer)
 
 <!-- tabs:end -->
+
+### Goal Setting 
+
+The important thing about setting goals, is to create **attainable** goals. You want to make sure these are real goals that are reasonable and can help scaffold a better behavior in their attendance. Below you will see some examples of goals that are attainable, not only that they are examples that are connected to DESSA competencies. 
+
+![Sample Goals](/_images/Atten_Sample_Goals.png)
+
+![Sample Goals 2](/_images/Atten_Sample_Goals2.png)
+
+### Something to Remember
+
+- Through this process of Attendance Lessons, it is important to be and stay consistent. Understanding that there are multiple lessons to be given throughout the week. It is important to have a consistent schedule to make the best impact for your student.
