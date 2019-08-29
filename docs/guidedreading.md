@@ -56,6 +56,6 @@ The important thing about setting goals, is to create **attainable** goals. You 
 
 ![Sample Goals 2](/_images/Atten_Sample_Goals2.png)
 
-### Things to Remember
+### Something to Remember
 
 - Through this process of Attendance Lessons, it is important to be and stay consistent. Understanding that there are multiple lessons to be given throughout the week. It is important to have a consistent schedule to make the best impact for your student.
