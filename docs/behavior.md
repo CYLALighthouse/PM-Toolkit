@@ -42,3 +42,18 @@ The formal check-out should happen at the end of the month where you will discus
 
 <!-- tabs:end -->
 
+FAQ's
+
+**What happens if my student is absent for a Behavior CI or a CO?**
+
+- If your student is absent, find the next best opportunity to meet with them for the CI or CO. We
+encourage you to keep to the CICO schedule for the month. We understand that sometimes students
+are absent or schedules change; utilize your TL to strategize as a thought-partner should you need
+support in thinking through a CICO plan.
+
+**Can I carry the monthly goal over of the student did not meet it?**
+
+- We want to set our students up for success and growth so encourage your student to try again with the
+same goal. During the formal Check-Out do some reflecting with them on how they might do things
+differently to reach the goal. You can circle back round to this in your next formal Check-In at the start
+of the following month.
