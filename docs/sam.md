@@ -247,10 +247,6 @@ This report provides lexile ranges to select a text for guided reading based on 
 > 4. *Demanding Text Complexity:* Texts in this range ideal for Guided Reading in order to build student's reading capacity.
 
 
-
-
-
-
 # MI Report Summaries
 
 
