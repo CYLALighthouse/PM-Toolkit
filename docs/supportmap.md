@@ -7,14 +7,14 @@
 ### How to complete your SSMs
 
 - [**RI Instructional Planning Report**](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=ri-instructional-planning-report)
-- [**MI Instructional Planning Report**](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=mi-report-summaries)
+- [**MI Instructional Planning Report**](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=classroom-reports-2)
 	- To fill out "Group of Students"
 	- Use this report identify and create groups with a common skill gap
 - **Whole Child Portrait**
 	- To fill into the "Qualitative Data from Whole Child Portrait"
 	- Use the data to map SEL Strength & Needs and Academic Strengths & Challenges
 - [**RI Student Action Report**](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=ri-student-action-reports)
-- [**MI Student Action Report**](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=mi-report-summaries)
+- [**MI Student Action Report**](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=student-reports-2)
 	- To find the code for the CCSS or CCRA in 6 Week Support Plan
 	- Run the SAR for all the students in your group to the common needs
 	- Look at the section in the report called "Recommendations for _____ " to identify overlapping skill needs.
