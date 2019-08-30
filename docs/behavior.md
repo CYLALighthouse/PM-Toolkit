@@ -42,7 +42,7 @@ The formal check-out should happen at the end of the month where you will discus
 
 <!-- tabs:end -->
 
-FAQ's
+###FAQ's
 
 **What happens if my student is absent for a Behavior CI or a CO?**
 
