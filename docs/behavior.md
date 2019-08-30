@@ -40,5 +40,5 @@ The formal check-out should happen at the end of the month where you will discus
 - [ ] What are some next steps that they could come up with to move to be more successful?
 - [ ] What are some goals that they would want to set for themselves next month?
 
-<!-- tabs:end-->
+<!-- tabs:end -->
 
