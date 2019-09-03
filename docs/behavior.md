@@ -14,7 +14,7 @@ You as the Americorps members, will be facilitating behavior lessons to their be
 
 When picking your students for your Focus List, after doing DESSA, you will choose the students who are in the _**Typical**_ band. If you look at the distribution above you can see what scores you will be looking for. Some students will fall between the _Need and Typical_ so you can look for the students who have a **composite score of 35-50 are the ideal candidates for your Behavior Focus List.**
 
-### Behavior Intervention Check-In Check-Out (CICO) Structure and Logistics
+### Behavior Intervention Check-In Check-Out (Behavior CICO) Structure and Logistics
 
 <!-- tabs:start -->
 
@@ -57,3 +57,7 @@ support in thinking through a CICO plan.
 same goal. During the formal Check-Out do some reflecting with them on how they might do things
 differently to reach the goal. You can circle back round to this in your next formal Check-In at the start
 of the following month.
+
+**What Comment Code do I use to log _Informal_ Behavior Check-ins and Check-outs?**
+
+- Any session related to Behavior should be logged as a **B**.
