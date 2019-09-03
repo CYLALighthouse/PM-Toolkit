@@ -27,7 +27,7 @@ In the first week of when you start Behavior Lessons, you will formally meet wit
 
 #### **Informal Check-in**
 
-The informal check-in's will happen in the middle of the month (week2&3) where you will mainly focus on progress of the goal that your students and yourself made in the first week.
+The informal check-in's will happen in the middle of the month (week 2 & 3) where you will mainly focus on progress of the goal that your students and yourself made in the first week.
 - [ ] What are some challenges they are facing?
 - [ ] Where have they seen success? 
 
