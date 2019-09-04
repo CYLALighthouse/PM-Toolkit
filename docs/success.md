@@ -2,9 +2,9 @@
 
 The HMH website offers research, white papers, and a variety of best practices to better understand the Reading Inventory and Math Inventory. 
 
-- [Interpreting Assessment Results](file:///C:/Users/zlatade/Documents/GitHub/CYLA_Assessments_Toolkit/docs/files/InterpretingAssessmentResults.pdf)
+- [Interpreting Assessment Results](https://prod-hmhco-vmg-craftcms-private.s3.amazonaws.com/documents/MIRIInterpretingAssessmentResults.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMFIFLXXFP4CBPDA%2F20190904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190904T154127Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=a7607537439b7c665f76c3e25081149c011948bd487618dd3ef3138f64e670a9)
 	- Easy to read overview explaining why scores may vary in HMH assessments and best practices to reduce measurement error
-- [Accuracy Matters](file:///C:/Users/zlatade/Documents/GitHub/CYLA_Assessments_Toolkit/docs/files/AccuracyMatters.pdf)
+- [Accuracy Matters](http://d3r7smo9ckww6x.cloudfront.net/3-SRI_AccuracyMatters_0.pdf)
 	- In-depth, technical manual expanding on the HMH Standardized testing system
 - [Meet College and Career Readiness Goals with HMH](https://prod-hmhco-vmg-craftcms-private.s3.amazonaws.com/documents/MIRIMeetCollegeandCareerReadiness.pdf?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJMFIFLXXFP4CBPDA%2F20190904%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20190904T154013Z&X-Amz-SignedHeaders=host&X-Amz-Expires=3600&X-Amz-Signature=7fea677725eeb003fbbacb3f64d5438bceb8fe8cde6f98057dee988809dc4349)
 	- Great resource to share with partner teachers and administration around how HMH can help students and align with Common Core State Standards
