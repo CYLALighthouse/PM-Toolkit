@@ -14,7 +14,7 @@
 	- To fill into the "Qualitative Data from Whole Child Portrait"
 	- Use the data to map SEL Strength & Needs and Academic Strengths & Challenges
 - [**RI Student Action Report**](#ri-student-action-reports)
-- [**MI Student Action Report**](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=student-reports-2)
+- [**MI Student Action Report**](#mi-progress-to-college-and-career-readiness-report)
 	- To find the code for the CCSS or CCRA in 6 Week Support Plan
 	- Run the SAR for all the students in your group to the common needs
 	- Look at the section in the report called "Recommendations for _____ " to identify overlapping skill needs.
