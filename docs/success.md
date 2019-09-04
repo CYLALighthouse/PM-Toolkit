@@ -2,11 +2,11 @@
 
 The HMH website offers research, white papers, and a variety of best practices to better understand the Reading Inventory and Math Inventory. 
 
-- [Interpreting Assessment Results](files/InterpretingAssessmentResults.pdf)
+- [Interpreting Assessment Results](file:///C:/Users/zlatade/Documents/GitHub/CYLA_Assessments_Toolkit/docs/files/InterpretingAssessmentResults.pdf)
 	- Easy to read overview explaining why scores may vary in HMH assessments and best practices to reduce measurement error
-- [Accuracy Matters](files/AccuracyMatters.pdf)
+- [Accuracy Matters](file:///C:/Users/zlatade/Documents/GitHub/CYLA_Assessments_Toolkit/docs/files/AccuracyMatters.pdf)
 	- In-depth, technical manual expanding on the HMH Standardized testing system
-- [Meet College and Career Readiness Goals with HMH](files/MeetCollegeandCareerReadiness.pdf)
+- [Meet College and Career Readiness Goals with HMH](file:///C:/Users/zlatade/Documents/GitHub/CYLA_Assessments_Toolkit/docs/files/MeetCollegeandCareerReadiness.pdf)
 	- Great resource to share with partner teachers and administration around how HMH can help students and align with Common Core State Standards
 
 ## Before the Test
