@@ -6,7 +6,7 @@
 
 ### How to complete your SSMs
 
-- [**RI Instructional Planning Report**](https://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=ri-instructional-planning-report)
+- [**RI Instructional Planning Report**](a[href^="http://cylalighthouse.github.io/CYLA_Assessments_Toolkit/#/sam?id=ri-instructional-planning-report])
 - [**MI Instructional Planning Report**](#mi-instructional-planning-report)
 	- To fill out "Group of Students"
 	- Use this report identify and create groups with a common skill gap
