@@ -44,3 +44,5 @@ There are different comment codes that you will have to use when counting your t
 | B 			| :arrow_right: | Behavior Lesson & CICO |
 | CI 			| :arrow_right: | Attendance Check-In |
 | CO 			| :arrow_right: | Attendance Check-Out |
+
+> [!NOTE] You should be marking down on your tracker everytime you finish a lesson or stop a lesson with a student. This will help make sure the exact amount of time is documented and what subject you were working on with your student. This is a good habit to have to make sure that you have accurate data. 
