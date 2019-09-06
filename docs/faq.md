@@ -4,7 +4,7 @@
 
 ### Where do I find my log-in information for SAM?
 
-Go to [PowerBI](apps.powerbi.com) 
+Go to [PowerBI](apps.powerbi.com/home) 
 1. Navigate to ACM Dashboard
 2. Click on the Student Data Sharing tab (bottom)
 3. Navigate to HMH RI or HMH MI page
@@ -15,7 +15,7 @@ Your username and password will appear on the box to the right. Make sure you us
 
 ### Where do I find my student's log-in information?
 
-Go to [PowerBI](apps.powerbi.com) 
+Go to [PowerBI](apps.powerbi.com/home) 
 1. Navigate to ACM Dashboard
 2. Click on the Student Data Sharing tab (bottom)
 3. Navigate to HMH RI or HMH MI page
