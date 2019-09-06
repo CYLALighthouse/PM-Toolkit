@@ -11,8 +11,8 @@ This section shows student progress towards grade level proficiency and college 
 		files/mi_progress_to_college.pdf
 ```
 > [!NOTE] **Key Elements**
-> 1. Dates if each adnubustratui if the MI
-> 2. Results of the Math Fact Screeners
+> 1. Date of each administration of HMH testing. 
+> 2. Results of the Math Fact Screeners, tells you how proficient the student is in Addition and Multiplication.
 > 3. Quantile score and performance level of each testing administration.
 > 4. Percentile rank that indicates the percentage of students in the dame grade level who received a lower score than the student
 > 5. Specific instructional recommendations for the selected student, including if they may need to focus on fact fluency.
