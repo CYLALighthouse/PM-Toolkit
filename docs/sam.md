@@ -67,7 +67,6 @@ This section will provide:
 - Guidance on how/when to use these reports
 - Definitions of key aspects of each report
 
-#### Student Reports
 
 - [Student Action Report](riaction.md) 
 	- Gives you information about your students lexile level, and what lexile range that would either challenge your student independently or what lexile range you can use to help teach a lesson.
@@ -91,7 +90,6 @@ This section will provide:
 - Guidance on how/when to use these reports
 - Definitions of key aspects of each report
 
-#### Student Reports
 
 - [Progress to College and Career Readiness Report](miprogress.md) 
 	- Shows student progress towards grade level proficiency and college and career readiness. It also provides specific instructional recommendations using QSCs and State Standards.
@@ -103,5 +101,4 @@ This section will provide:
 	- This report will show you the student's test and the answers that the student got right or wrong. This is a good source for HMH preperation.
 
 <!-- tabs:end -->
-
 
