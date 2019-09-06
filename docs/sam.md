@@ -79,14 +79,29 @@ To run a report, select the report you are interested in, and click the **RUN RE
 
 <!-- tabs:start -->
 
-#### ** Reading Inventory **
+## ** Reading Inventory **
 
-- [Growth Goals Report](#ri-growth-goals-report)
-	- Shows the expected growth range for your students and how they are benchmarking toward reading proficiency 
-- [Instructional Planning Report](#ri-instructional-planning-report)
+### RI Report Summaries
+
+This section will provide:
+- A list of key reports available in SAM for the Reading Inventory
+- Guidance on how/when to use these reports
+- Definitions of key aspects of each report
+
+#### Student Reports
+
+- [Student Action Report](riaction.md) 
+	- Gives you information about your students lexile level, and what lexile range that would either challenge your student independently or what lexile range you can use to help teach a lesson.
+- [Growth Goals Report](rigrowth.md)
+	- Shows the expected growth range for your students and how they are benchmarking toward reading proficiency
+- [RI Recommended Reading Report](rirecommended.md)
+	- Shows what books that are best fit for your student. Built based on what they are interested in and best for their reading level. 
+- [Instructional Planning Report](riinstruct.md)
 	- Groups your FL students according to need based on their most recent lexile score and performance level 
-- [Test Complexity Report](#ri-text-complexity-report)
+- [Test Complexity Report](ricomplex.md)
 	- Provides lexile ranges with which to select a text for guided reading based on how much you want to challenge students 
+- [Student Test Print Out](ritest.md)
+	- This report will show you the student's test and the answers that the student got right or wrong. This is a good source for HMH preperation.
 
 #### ** Math Inventory **
 
@@ -96,155 +111,6 @@ To run a report, select the report you are interested in, and click the **RUN RE
 	- Provides recommendations for grouping students and identifies common skills and concepts students are ready to learn based on performance level 
 
 <!-- tabs:end -->
-
-# RI Report Summaries
-
-This section will provide:
-- A list of key reports available in SAM for the Reading Inventory
-- Guidance on how/when to use these reports
-- Definitions of key aspects of each report
-
-## Student Reports
-
-### RI Recommended Reading Reports {docsify-ignore}
-
-This report provides the names of the texts within a student's lexile range, aligned with the interest areas they selected during their assessment.
-
-Recommended reading materials will update based on the latest lexile score and newly selected interest areas on the RI.
-
-
-> [!TIP] **Best practices** Sharing with your student to identify texts they will enjoy for guided or independent reading.
-
-
-#### Sample
-
-```pdf
-		files/ri_recommended_reading.pdf
-```
-
-> [!NOTE] **Key Elements**
-> 1. Interest areas a student selects at the beginning of the RI
-> 2. Texts related to the interest areas of the students
-> 3. Lexile level of each text to help identify texts that can be used at different text complexity levels. 
-
-
-
- 
-
-
-
-### RI Student Action Reports {docsify-ignore}
-
-This report provides a student's test history, targeted lexile ranges used based on your instructional purposes.
-
-> [!TIP]**Best Practices** 
-> - Use this report to identify the lexile ranges of texts that can be used to challenge students through guided reading. 
-> - Use recommended readding strategies to identify resources from the ELA toolkit for planned interventions. 
-
-
-#### Sample
-
-```pdf
-		files/ri_student_action_report.pdf
-```
-
-> [!NOTE] **Key Elements**
-> 1. Student's RI test history, including test dates, lexile scores, and performance levels.
-> 2. Lexile ranges based on different levels of complexity for a student as well as tips for when to use texts at the specific lexile range.
-> 3. Provides specific guided reading strategies for each sstudent based on lexile and student grade level. 
-
-
-
-
-
-
-
-### RI Student Test Printout {docsify-ignore}
-
-This report provides a printout of the latest assessment the student takes which shows both correct and incorrect responses.
-
-> [!TIP] **Best Practices** 
-> - Use this report to review the results of assessment with students. 
-> - Identifying trends in the types of questions students get correct or incorrect. 
-> - Use a few questions as a warm-up for session plans, or create a session plan around test preparation. 
-
-
-#### Sample
-
-
-```pdf
-		files/ri_student_test_printout.pdf
-```
-
-
-> [!NOTE] **Key Elements**
-> 1. Student test date, lexile score, and test time for latest assessment.
-> 2. Full test questions that the student took on the RI.
-> 3. Correct answers are marked with a check, incorrect answers are marked with an "x".
-> 4. The citation of the passage used in the question. 
-
-> [!DANGER] Student Test Printouts from previous assessments will be lost after a new assessment is taken. To keep a history of test printouts, print and store them in a secure place.
-
-
-
-
-## Classroom Reports
-
-
-
-### RI Growth Goals Report {docsify-ignore}
-
-This report provides each student on your ELA FL expected growth range and how they are benchmarking towards proficiency.
-
-> [!TIP] **Best Practices** 
-> - Use expected growth goals creaed to set achievable goals for your ELA students. 
-> - Share with apartner teachers to inform planning for students and quantifying need for intervention. 
-> - Use growth needed for grade level proficiency for secondary goals if students meet expected growth.
-
-> [!NOTE] **Key Elements**
-> 1. Date & lexile score for students’ 1st assessment
-> 2. Date and lexile score for student’s latest assessment score (Field will update after both the 2nd and 3rd administration
-> 3. Expected lexile growth for an average student by the end of the school year. Based on grade level and First test score
-> 4. Actual lexile growth from 1st assessment to last assessment
-5. Growth needed to reach Proficient Performance level for their grade level (Year End Proficiency Ranges table gives you the proficiency range for your student’s grade levels
-6. Key provides growth goals status toward expected growth and indicator if a student took less than 15 minutes to complete the assessment 
-
-
-### RI Instructional Planning Report
-
-This report groups your ELA FL Students according to need, based on their most recent lexile score and performance level.
-
-
-> [!TIP] **Best Practices** 
-> - Create small groups for ELA FL studens with similar lexile scores in order to plan intentional interventions in which multiple students can participate and maximize your T2ST time by providing interventions for multiple students at once.
-
-#### Sample
-
-```pdf
-		files/ri-instructional-planning.pdf
-```
-
-> [!NOTE] **Key Elements**
-> 1. Students are grouped from high to low according to performance level.
-> 2. Student's latest lexile scores and assessment date
-> 3. Percentile Rank tells what percent of students in the same grade received lower scores than your student.
-
-### RI Text Complexity Report {docsify-ignore}
-
-This report provides lexile ranges to select a text for guided reading based on how much you want to challenge students.
-
-
-#### Sample
-
-```pdf
-		files/ri-text-complexity.pdf
-```
-
-> [!NOTE] **Key Elements**
-> 1. Students' latest lexile score and test date
-> 2. *Simple Test Complexity:* Texts in this range ideal for struggling or reluctant readers to build confidence or help them master a subject or skill
-> 3. *Moderate Text Complexity:* Texts in this range are good for independent reading
-> 4. *Demanding Text Complexity:* Texts in this range ideal for Guided Reading in order to build student's reading capacity.
 
 
 # MI Report Summaries
