@@ -4,7 +4,7 @@
 This report provides each student on your ELA FL expected growth range and how they are benchmarking towards proficiency.
 
 > [!TIP] **Best Practices** 
-> - Use expected growth goals creaed to set achievable goals for your ELA students. 
+> - Use expected growth goals created to set achievable goals for your ELA students. 
 > - Share with a partner teachers to inform planning for students and quantifying need for intervention. 
 > - Use growth needed for grade level proficiency for secondary goals if students meet expected growth.
 
