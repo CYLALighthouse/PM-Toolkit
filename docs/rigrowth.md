@@ -15,3 +15,5 @@ This report provides each student on your ELA FL expected growth range and how t
 > 4. Actual lexile growth from 1st assessment to last assessment
 5. Growth needed to reach Proficient Performance level for their grade level (Year End Proficiency Ranges table gives you the proficiency range for your student’s grade levels
 6. Key provides growth goals status toward expected growth and indicator if a student took less than 15 minutes to complete the assessment 
+
+## Back to [SAM Reports](sam.md)

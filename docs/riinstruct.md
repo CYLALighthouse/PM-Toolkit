@@ -16,3 +16,5 @@ This report groups your ELA FL Students according to need, based on their most r
 > 1. Students are grouped from high to low according to performance level.
 > 2. Student's latest lexile scores and assessment date
 > 3. Percentile Rank tells what percent of students in the same grade received lower scores than your student.
+
+## Back to [SAM Reports](sam.md)

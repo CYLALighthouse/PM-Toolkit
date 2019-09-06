@@ -20,3 +20,4 @@ Recommended reading materials will update based on the latest lexile score and n
 > 2. Texts related to the interest areas of the students
 > 3. Lexile level of each text to help identify texts that can be used at different text complexity levels. 
 
+## Back to [SAM Reports](sam.md)

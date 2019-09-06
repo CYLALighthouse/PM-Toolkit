@@ -14,3 +14,5 @@ This report shows changes in student quantile and performance level over time.
 > 3. Growth in quantile from first to last administration (will populate after 2nd administration)
 > 4. Key provides performance level color coding and the symbol which indicates that a student took less than 15 minutes to take the assessment
 > 5. Highlights the quantile range that would indicate as a student reached grade level proficiency by the end of the year.
+
+## Back to [SAM Reports](sam.md)

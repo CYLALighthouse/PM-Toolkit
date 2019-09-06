@@ -23,3 +23,5 @@ This report provides a printout of the latest assessment the student takes which
 > 4. The citation of the passage used in the question. 
 
 > [!DANGER] Student Test Printouts from previous assessments will be lost after a new assessment is taken. To keep a history of test printouts, print and store them in a secure place.
+
+## Back to [SAM Reports](sam.md)

@@ -19,4 +19,4 @@ This report provides a student's test history, targeted lexile ranges used based
 > 2. Lexile ranges based on different levels of complexity for a student as well as tips for when to use texts at the specific lexile range.
 > 3. Provides specific guided reading strategies for each sstudent based on lexile and student grade level.
 
-
+## Back to [SAM Reports](sam.md)

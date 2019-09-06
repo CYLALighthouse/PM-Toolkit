@@ -19,3 +19,5 @@ This section shows student progress towards grade level proficiency and college 
 > 6. Provides a table of math skills and concepts that the selected student is ready to learn
 > 7. The QSC ID that aligns to the skill and concept identified
 > 8. The State standard/s which apply to the skill and concept identified
+
+## Back to [SAM Reports](sam.md)
