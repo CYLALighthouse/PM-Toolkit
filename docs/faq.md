@@ -5,10 +5,10 @@
 ### Where do I find my log-in information for SAM?
 
 Go to [PowerBI](https://app.powerbi.com/home) 
-1. Navigate to ACM Dashboard
-2. Click on the Student Data Sharing tab (bottom)
-3. Navigate to HMH RI or HMH MI page
-4. Click on "Staff & All Student Login Info" in the box on the left
+1. Navigate to FY20 Progress Monitoring Dashboard
+2. Click on the "Assessment Information" tab (bottom)
+3. Click on My Caseload's SAM Credentials.
+4. Find your login information.
 
 Your username and password will appear on the box to the right. Make sure you use the correct case when logging into your account!
 
@@ -16,12 +16,11 @@ Your username and password will appear on the box to the right. Make sure you us
 ### Where do I find my student's log-in information?
 
 Go to [PowerBI](https://app.powerbi.com/home) 
-1. Navigate to ACM Dashboard
-2. Click on the Student Data Sharing tab (bottom)
-3. Navigate to HMH RI or HMH MI page
-4. Click on "Staff & All Student Login Info" in the box on the left
+1. Navigate to FY20 Progress Monitoring Dashboard
+2. Click on the "Assessment Information" tab (bottom)
+3. Click on My Caseload's SAM Credentials.
+4. Find your student login information.
 
-Beneath the Staff Login and Password is a list of students and their IDs. 
 The student's username and password are the same as their listed ID. If you are still having trouble logging on, please submit a [Help Desk Ticket](https://cityyear.sharepoint.com/teams/lax/SitePages/CYLA%20Help%20Desk.aspx).
 
 
@@ -40,7 +39,7 @@ PowerBi updates every two hours and pulls up new information from the CySchoolho
 
 During HMH and DESSA windows, HMH scores and DESSA scores will be updated daily.
 
-You can click on FY19 ACM Impact Dashboard to find when it was last updated.
+You can click on FY20 Progress Monitoring Dashboard to find when it was last updated.
 
 ![UpdatePowerBI](/_images/UpdatePowerBI.png)
 
