@@ -28,7 +28,7 @@ There are 2 types of reports you can pull.
 - Student Reports
 - Classroom Reports
 
-> [!WARNING] All Reports in SAM are viewable in a web browser and in a downloadable PDF. However, information provided is not always consistent between the two formats.
+> [!WARNING] All Reports in SAM are viewable in a web browser and in a downloadable PDF. However, information provided is not always consistent between the two assessments.
 
 # Student Reports
 
