@@ -46,7 +46,7 @@ The MI provides two benchmarks for FL Identification and student progress monito
 - Applied to the first administration of the MI (Baseline Score) 
 - Used for Final Focus List Selection
 
-![MI Performance Bands Fall](/_images/MIBandsFall.jpg)
+![MI Performance Bands Fall](/_images/MIBand.png)
 
 **How to use this chart:**
 1. Find your student's grade.
@@ -60,7 +60,8 @@ The MI provides two benchmarks for FL Identification and student progress monito
 - Applied to second and third administration of the MI.
 - Used as Benchmark for student progress towards grade-level proficiency.
 
-![MI Performance Bands Spring](/_images/MIBandsSpring.jpg)
+![MI Performance Bands Spring]
+
 
 
 

@@ -44,7 +44,7 @@ The RI provides two benchmarks for FL identification and student progress monito
 
 ### RI Performance Bands
 
-![RI Performance Bands](/_images/RIBands.jpg)
+![RI Performance Bands](/_images/RIBand.png)
 
 **How to use this chart:**
 1. Find your student's grade.
