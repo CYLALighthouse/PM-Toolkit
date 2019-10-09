@@ -23,7 +23,11 @@
 	Most students take **15-30 minutes** to complete one administration.
 	The assessment is computer-adaptive and adjusts question difficulty based on students' responses.
 
+Here is a resource that you can use to better prep your students for the HMH testing. 
 
+```pdf
+		files/RI_Quick.pdf
+```
 
 
 ## Test Mechanics
