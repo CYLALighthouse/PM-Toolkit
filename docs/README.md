@@ -8,11 +8,7 @@ If you would like to make improvements or request new content for this site, ple
 
 ## Resources
 
-- [ELA Toolkit](ela.md)
-- [Math Toolkit](math.md)
-- [Behavior Toolkit](behavior.md)
-- [SEL Goal Tracker](https://cityyear.sharepoint.com/teams/lax/SitePages/SELgoal.aspx)
-- [Attendance Toolkit](attendance.md)
+- [Focus List Changes Toolkit](flchanges.md)
 
 
 ## Features
